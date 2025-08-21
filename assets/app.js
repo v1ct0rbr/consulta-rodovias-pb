@@ -16,7 +16,7 @@
   }
 
   main(); // Nada de console.log(DATA.length) aqui fora 🙂
-console.log(`Carregado ${DATA.length} registros de rodovias.`);
+
 
 
 const $ = sel => document.querySelector(sel);
