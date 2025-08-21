@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pesquisa de Rodovias – DER/PB</title>
+<style>
+  :root { --bg:#0b1020; --card:#111831; --ink:#eaf0ff; --muted:#a9b3cc; --accent:#6aa7ff; }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+  header{padding:24px}
+  h1{margin:0 0 6px;font-size:20px}
+  p.subtitle{margin:0;color:var(--muted)}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 40px}
+  .card{background:var(--card);border-radius:14px;padding:18px 16px;margin:16px 0;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+  label{display:block;font-size:12px;color:var(--muted);margin-bottom:6px}
+  .row{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+  input,select,button{width:100%;padding:10px 12px;border-radius:10px;border:1px solid #2b3559;background:#0d1430;color:var(--ink)}
+  button{cursor:pointer;background:linear-gradient(180deg,#6aa7ff,#3f7ef0);border:none;font-weight:600}
+  button.secondary{background:#0d1430;border:1px solid #2b3559}
+  .hint{color:var(--muted);font-size:12px;margin-top:6px}
+  table{width:100%;border-collapse:collapse;margin-top:10px}
+  th,td{padding:10px;border-bottom:1px solid #26325a;text-align:left;font-size:14px}
+  th{color:#cfe0ff;font-weight:600}
+  .badge{display:inline-block;padding:4px 8px;border-radius:999px;background:#16224c;color:#cfe0ff;font-size:12px}
+  .hide{display:none}
+  .pill{background:#13224a;border:1px solid #2a3a6a;padding:2px 8px;border-radius:999px;font-size:12px;color:#d7e3ff}
+</style>
+</head>
+<body>
+  <header class="wrap">
+    <h1>Pesquisa de Rodovias — DER/PB</h1>
+    <p class="subtitle">Consulte por cidade ou por rodovia. Selecione um trecho para ver os detalhes técnicos.</p>
+  </header>
+
+  <main class="wrap">
+    <!-- PESQUISA POR CIDADE -->
+    <section class="card">
+      <h2 style="margin:0 0 8px">Buscar por Cidade</h2>
+      <div class="row">
+        <div>
+          <label for="city">Nome da Cidade</label>
+          <input id="city" list="cities" placeholder="Ex.: Sapé, Guarabira, Itabaiana…" />
+          <datalist id="cities"></datalist>
+          <div class="hint">Retorna as rodovias que atendem à cidade e a Residência Rodoviária responsável.</div>
+        </div>
+        <div style="align-self:end;display:flex;gap:8px">
+          <button id="searchCity">Pesquisar</button>
+          <button id="clearCity" class="secondary">Limpar</button>
+        </div>
+      </div>
+      <div id="cityResults" class="hide">
+        <h3 style="margin:14px 0 6px">Rodovias que atendem a <span id="cityName" class="pill"></span></h3>
+        <table>
+          <thead><tr>
+            <th>Rodovia</th><th>Trecho (Resumo)</th><th>Residência</th>
+          </tr></thead>
+          <tbody id="cityTable"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- PESQUISA POR RODOVIA -->
+    <section class="card">
+      <h2 style="margin:0 0 8px">Buscar por Rodovia</h2>
+      <div class="row">
+        <div>
+          <label for="rodovia">Nome da Rodovia</label>
+          <input id="rodovia" list="rodovias" placeholder="Ex.: PB-008, PB-041, PB-073…" />
+          <datalist id="rodovias"></datalist>
+          <div class="hint">Retorna todos os trechos cadastrados da rodovia e a Residência responsável.</div>
+        </div>
+        <div style="align-self:end;display:flex;gap:8px">
+          <button id="searchRoad">Pesquisar</button>
+          <button id="clearRoad" class="secondary">Limpar</button>
+        </div>
+      </div>
+
+      <div id="roadResults" class="hide">
+        <h3 style="margin:14px 0 6px">Trechos da <span id="roadName" class="pill"></span></h3>
+        <table>
+          <thead><tr>
+            <th>#</th><th>Trecho</th><th>Residência</th><th>Ext. (Km)</th><th>Sit. Fís.</th>
+          </tr></thead>
+          <tbody id="roadTable"></tbody>
+        </table>
+
+        <div id="trechoBox" class="hide">
+          <h3 style="margin:16px 0 6px">Detalhes do trecho selecionado</h3>
+          <table>
+            <tbody id="trechoDetails"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+<script>
+/* =========================
+   DATASET (exemplos iniciais)
+   Adicione/edite blocos abaixo para ampliar a base.
+   Campos:
+   - road: "PB-xxx"
+   - residence: "Residência Rodoviária de ... "
+   - trecho: descrição resumida
+   - cities: ["Cidade A","Cidade B", ...] — cidades atendidas no trecho
+   - start_km, end_km, ext_km
+   - sit_fis, tipo_ver, rod_coinc, classif_func
+========================= */
+const DATA = [
+  // —— SAPÉ ——
+  {road:"PB-041", residence:"Residência Rodoviária de Sapé", trecho:"Entr. BR-101 (Mamanguape) – Itapororoca (Centro)",
+    cities:["Mamanguape","Itapororoca","Rio Tinto"], start_km:0.0, end_km:21.2, ext_km:21.2, sit_fis:"Pav. TSD",
+    tipo_ver:"A.S.", rod_coinc:"—", classif_func:"—"},
+  {road:"PB-041", residence:"Residência Rodoviária de Sapé", trecho:"Trechos complementares até Renascença",
+    cities:["Cuité de Mamanguape","Rio Tinto","Baía da Traição"], start_km:21.2, end_km:66.7, ext_km:45.5, sit_fis:"Pav. TSD / CA",
+    tipo_ver:"A.S.", rod_coinc:"BR-101 (parcial)", classif_func:"—"},
+  {road:"PB-008", residence:"Residência Rodoviária de Sapé", trecho:"Trechos litorâneos (Baía da Traição ↔ Barra de Camaratuba)",
+    cities:["Baía da Traição","Marcação","Rio Tinto","Mamanguape"], start_km:86.1, end_km:152.9, ext_km:66.8,
+    sit_fis:"Pav. / Leito / Plan.", tipo_ver:"—", rod_coinc:"BR-230 (porto); PB-061 (acessos)", classif_func:"—"},
+  {road:"PB-073", residence:"Residência Rodoviária de Sapé", trecho:"Sapé – Guarabira (e complementos)",
+    cities:["Sapé","Cruz do Espírito Santo","Mari","Guarabira","Pirpirituba"], start_km:0.0, end_km:73.8, ext_km:73.8,
+    sit_fis:"Pav. CA/TSD", tipo_ver:"A.P.", rod_coinc:"—", classif_func:"—"},
+
+  // —— ITABAIANA ——
+  {road:"PB-008", residence:"Residência Rodoviária de Itabaiana", trecho:"João Pessoa ↔ Conde ↔ Pitimbu",
+    cities:["João Pessoa","Conde","Alhandra","Pitimbu"], start_km:0.0, end_km:60.4, ext_km:60.4, sit_fis:"Pav. TSD",
+    tipo_ver:"A.S.", rod_coinc:"PB-044 (parcial)", classif_func:"—"},
+  {road:"PB-044", residence:"Residência Rodoviária de Itabaiana", trecho:"Caaporã ↔ Alhandra ↔ Conde",
+    cities:["Caaporã","Alhandra","Conde"], start_km:0.0, end_km:23.9, ext_km:23.9, sit_fis:"Pav. CA/TSD", tipo_ver:"C.P.", rod_coinc:"—", classif_func:"—"},
+  {road:"PB-066", residence:"Residência Rodoviária de Itabaiana", trecho:"Juripiranga ↔ Mogeiro ↔ Natuba",
+    cities:["Juripiranga","Salgado de São Félix","Mogeiro","Natuba"], start_km:0.0, end_km:53.4, ext_km:53.4,
+    sit_fis:"Pav. TSD/CA", tipo_ver:"BR-408 (coinc.)", rod_coinc:"BR-408", classif_func:"A.P."},
+  {road:"PB-090", residence:"Residência Rodoviária de Itabaiana", trecho:"Aroeiras ↔ Itatuba (acessos a Ingá)",
+    cities:["Aroeiras","Itatuba","Ingá"], start_km:0.0, end_km:37.3, ext_km:37.3, sit_fis:"Pav./Leito",
+    tipo_ver:"C.P.", rod_coinc:"—", classif_func:"—"},
+
+  // —— SOLÂNEA ——
+  {road:"PB-087", residence:"Residência Rodoviária de Solânea", trecho:"Areia ↔ Pilões ↔ Borborema",
+    cities:["Areia","Pilões","Borborema"], start_km:0.0, end_km:52.4, ext_km:52.4, sit_fis:"Pav./EOP",
+    tipo_ver:"C.P.", rod_coinc:"PB-085 (parcial)", classif_func:"—"},
+  {road:"PB-103", residence:"Residência Rodoviária de Solânea", trecho:"Bananeiras ↔ Bilinguim ↔ Tacima",
+    cities:["Bananeiras","Belém","Bilinguim","Tacima"], start_km:0.0, end_km:35.4, ext_km:35.4, sit_fis:"Pav./EOP",
+    tipo_ver:"C.S.", rod_coinc:"—", classif_func:"—"},
+  {road:"PB-105", residence:"Residência Rodoviária de Solânea", trecho:"Arara ↔ Remígio ↔ Belém",
+    cities:["Arara","Remígio","Belém","Solânea"], start_km:0.0, end_km:50.3, ext_km:50.3, sit_fis:"Pav. TSD",
+    tipo_ver:"A.S.", rod_coinc:"—", classif_func:"—"},
+
+  // —— CAMPINA GRANDE ——
+  {road:"PB-148", residence:"Residência Rodoviária de Campina Grande", trecho:"Queimadas/Boqueirão ↔ Boa Vista ↔ Cabaceiras",
+    cities:["Queimadas","Boqueirão","Boa Vista","Cabaceiras"], start_km:0.0, end_km:90.2, ext_km:90.2, sit_fis:"Pav./Leito",
+    tipo_ver:"C.P.", rod_coinc:"BR-412 (parcial)", classif_func:"—"},
+  {road:"PB-160", residence:"Residência Rodoviária de Campina Grande", trecho:"Barra de São Miguel ↔ Cabaceiras ↔ São Domingos do Cariri",
+    cities:["Barra de São Miguel","Cabaceiras","São Domingos do Cariri"], start_km:0.0, end_km:70.7, ext_km:70.7,
+    sit_fis:"Pav./EOP/Leito", tipo_ver:"C.S.", rod_coinc:"—", classif_func:"—"},
+  {road:"PB-102", residence:"Residência Rodoviária de Campina Grande", trecho:"Umbuzeiro ↔ Aroeiras ↔ Gado Bravo",
+    cities:["Umbuzeiro","Aroeiras","Gado Bravo"], start_km:0.0, end_km:50.7, ext_km:50.7, sit_fis:"Pav. TSD",
+    tipo_ver:"A.S.", rod_coinc:"—", classif_func:"—"},
+
+  // —— SUMÉ ——
+  {road:"PB-196", residence:"Residência Rodoviária de Sumé", trecho:"Barra de São Miguel ↔ Riacho de Sto. Antônio ↔ Alcantil ↔ Sta. Cecília → (Congo/Camalaú/Monteiro)",
+    cities:["Barra de São Miguel","Riacho de Santo Antônio","Alcantil","Santa Cecília","Congo","Camalaú","Monteiro"], start_km:32.3, end_km:162.9, ext_km:130.6,
+    sit_fis:"Leito/Pav./Impl.", tipo_ver:"C.S.", rod_coinc:"PB-214 (entronc.)", classif_func:"—"},
+  {road:"PB-214", residence:"Residência Rodoviária de Sumé", trecho:"Congo ↔ Camalaú ↔ Sumé",
+    cities:["Congo","Camalaú","Sumé"], start_km:0.0, end_km:48.7, ext_km:48.7, sit_fis:"Pav. TSD",
+    tipo_ver:"C.S.", rod_coinc:"PB-196 (coinc. parcial)", classif_func:"—"},
+  {road:"PB-248", residence:"Residência Rodoviária de Sumé", trecho:"Serra Branca ↔ Ouro Velho ↔ Zabelê / Monteiro",
+    cities:["Serra Branca","Ouro Velho","Zabelê","Monteiro"], start_km:0.0, end_km:35.1, ext_km:35.1,
+    sit_fis:"Pav./Leito", tipo_ver:"C.S.", rod_coinc:"—", classif_func:"—"},
+
+  // —— PATOS (exemplo) ——
+  {road:"PB-238", residence:"Residência Rodoviária de Patos", trecho:"Assunção ↔ Taperoá ↔ Desterro",
+    cities:["Assunção","Taperoá","Desterro"], start_km:0.0, end_km:73.0, ext_km:73.0, sit_fis:"Pav. TSD",
+    tipo_ver:"A.S.", rod_coinc:"—", classif_func:"—"},
+];
+
+/* ========= Helpers ========= */
+const $ = sel => document.querySelector(sel);
+const $$ = sel => Array.from(document.querySelectorAll(sel));
+
+function uniq(arr){ return [...new Set(arr)].sort((a,b)=>a.localeCompare(b,'pt-BR')); }
+
+function buildLookups(){
+  // cidades únicas para datalist
+  const citySet = new Set();
+  DATA.forEach(r => (r.cities||[]).forEach(c => citySet.add(c)));
+  $('#cities').innerHTML = uniq([...citySet]).map(c=>`<option value="${c}">`).join('');
+  // rodovias para datalist
+  $('#rodovias').innerHTML = uniq(DATA.map(r=>r.road)).map(r=>`<option value="${r}">`).join('');
+}
+buildLookups();
+
+/* ========= Busca por Cidade ========= */
+$('#searchCity').addEventListener('click', ()=>{
+  const name = ($('#city').value||'').trim();
+  if(!name){ alert('Informe o nome da cidade.'); return; }
+  const rows = DATA.filter(r => (r.cities||[]).some(c => c.toLowerCase()===name.toLowerCase()));
+  $('#cityName').textContent = name;
+  $('#cityTable').innerHTML = rows.map(r=>`
+    <tr>
+      <td><span class="badge">${r.road}</span></td>
+      <td>${r.trecho}</td>
+      <td>${r.residence}</td>
+    </tr>`).join('') || `<tr><td colspan="3">Nenhum resultado encontrado.</td></tr>`;
+  $('#cityResults').classList.remove('hide');
+});
+$('#clearCity').addEventListener('click', ()=>{
+  $('#city').value=''; $('#cityResults').classList.add('hide');
+});
+
+/* ========= Busca por Rodovia ========= */
+let currentRoadRows = [];
+$('#searchRoad').addEventListener('click', ()=>{
+  const road = ($('#rodovia').value||'').trim().toUpperCase();
+  if(!road){ alert('Informe a rodovia (ex.: PB-008).'); return; }
+  currentRoadRows = DATA.filter(r=>r.road.toUpperCase()===road);
+  $('#roadName').textContent = road;
+  $('#roadTable').innerHTML = currentRoadRows.map((r,i)=>`
+    <tr data-index="${i}" class="trechoRow" style="cursor:pointer">
+      <td>${i+1}</td>
+      <td>${r.trecho}</td>
+      <td>${r.residence}</td>
+      <td>${(r.ext_km??0).toLocaleString('pt-BR',{maximumFractionDigits:2})}</td>
+      <td>${r.sit_fis}</td>
+    </tr>`).join('') || `<tr><td colspan="5">Nenhum trecho cadastrado para ${road}.</td></tr>`;
+  $('#roadResults').classList.remove('hide');
+  $('#trechoBox').classList.add('hide');
+});
+
+$('#clearRoad').addEventListener('click', ()=>{
+  $('#rodovia').value=''; $('#roadResults').classList.add('hide'); $('#trechoBox').classList.add('hide');
+});
+
+// detalhes do trecho
+document.addEventListener('click', (ev)=>{
+  const tr = ev.target.closest('.trechoRow');
+  if(!tr) return;
+  const idx = +tr.dataset.index;
+  const r = currentRoadRows[idx];
+  const fields = [
+    ["Rodovia", r.road],
+    ["Trecho", r.trecho],
+    ["Residência", r.residence],
+    ["INÍCIO (Km)", fmt(r.start_km)],
+    ["FIM (Km)", fmt(r.end_km)],
+    ["EXT. (Km)", fmt(r.ext_km)],
+    ["SIT. FÍS.", r.sit_fis||"—"],
+    ["TIPO VER", r.tipo_ver||"—"],
+    ["RODOVIA COINCID.", r.rod_coinc||"—"],
+    ["CLASSIF. FUNCIONAL", r.classif_func||"—"],
+    ["Cidades atendidas", (r.cities||[]).join(", ")||"—"]
+  ];
+  $('#trechoDetails').innerHTML = fields.map(([k,v])=>`<tr><th style="width:220px">${k}</th><td>${v}</td></tr>`).join('');
+  $('#trechoBox').classList.remove('hide');
+});
+
+function fmt(n){ return (n==null) ? "—" : Number(n).toLocaleString('pt-BR',{maximumFractionDigits:2}); }
+</script>
+</body>
+</html>
