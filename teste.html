@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pesquisa de Rodovias – DER/PB</title>
+<style>
+  body{background:#0b1020;color:#eaf0ff;font:16px/1.4 system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0}
+  header{padding:24px}
+  h1{margin:0 0 6px;font-size:20px}
+  p.subtitle{margin:0;color:#a9b3cc}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px 24px 40px}
+  .card{background:#111831;border-radius:14px;padding:18px 16px;margin:16px 0;box-shadow:0 8px 24px rgba(0,0,0,.25)}
+  label{display:block;font-size:12px;color:#a9b3cc;margin-bottom:6px}
+  .row{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+  input,button{width:100%;padding:10px 12px;border-radius:10px;border:1px solid #2b3559;background:#0d1430;color:#eaf0ff}
+  button{cursor:pointer;background:linear-gradient(180deg,#6aa7ff,#3f7ef0);border:none;font-weight:600}
+  button.secondary{background:#0d1430;border:1px solid #2b3559}
+  table{width:100%;border-collapse:collapse;margin-top:10px}
+  th,td{padding:10px;border-bottom:1px solid #26325a;text-align:left;font-size:14px}
+  th{color:#cfe0ff;font-weight:600}
+  .badge{display:inline-block;padding:4px 8px;border-radius:999px;background:#16224c;color:#cfe0ff;font-size:12px}
+  .hide{display:none}
+  .pill{background:#13224a;border:1px solid #2a3a6a;padding:2px 8px;border-radius:999px;font-size:12px;color:#d7e3ff}
+</style>
+</head>
+<body>
+  <header class="wrap">
+    <h1>Pesquisa de Rodovias — DER/PB</h1>
+    <p class="subtitle">Consulte por cidade ou por rodovia. Selecione um trecho para ver os detalhes técnicos.</p>
+  </header>
+
+  <main class="wrap">
+    <!-- PESQUISA POR RODOVIA -->
+    <section class="card">
+      <h2>Buscar por Rodovia</h2>
+      <div class="row">
+        <div>
+          <label for="rodovia">Nome da Rodovia</label>
+          <input id="rodovia" list="rodovias" placeholder="Ex.: PB-008, PB-041, PB-073…" />
+          <datalist id="rodovias"></datalist>
+        </div>
+        <div style="align-self:end;display:flex;gap:8px">
+          <button id="searchRoad">Pesquisar</button>
+          <button id="clearRoad" class="secondary">Limpar</button>
+        </div>
+      </div>
+      <div id="roadResults" class="hide">
+        <h3>Trechos da <span id="roadName" class="pill"></span></h3>
+        <table>
+          <thead><tr>
+            <th>#</th><th>Residência</th><th>Trecho</th>
+          </tr></thead>
+          <tbody id="roadTable"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+<script>
+/* =========================
+   DATASET ALIMENTADO
+   ========================= */
+const DATA = [
+  // Sapé
+  ...["PB-004","PB-008","PB-018","PB-032","PB-044","PB-048","PB-054","PB-057","PB-065","PB-073","PB-082","PB-091"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Sapé",trecho:"Trecho a detalhar"})),
+  // Solânea
+  ...["PB-087","PB-089","PB-105","PB-111","PB-127","PB-133","PB-141","PB-165"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Solânea",trecho:"Trecho a detalhar"})),
+  // Itabaiana
+  ...["PB-054","PB-066","PB-072","PB-074","PB-082","PB-086","PB-090","PB-092"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Itabaiana",trecho:"Trecho a detalhar"})),
+  // Cajazeiras
+  ...["PB-393","PB-400","PB-403","PB-404","PB-405","PB-420","PB-438","PB-444","PB-476"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Cajazeiras",trecho:"Trecho a detalhar"})),
+  // Patos
+  ...["PB-228","PB-238","PB-262","PB-293","PB-306","PB-308","PB-342","PB-356","PB-370"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Patos",trecho:"Trecho a detalhar"})),
+  // Itaporanga
+  ...["PB-348","PB-356","PB-364","PB-370","PB-384","PB-386","PB-400"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Itaporanga",trecho:"Trecho a detalhar"})),
+  // Sumé
+  ...["PB-148","PB-176","PB-200","PB-214","PB-228","PB-238","PB-250","PB-264"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Sumé",trecho:"Trecho a detalhar"})),
+  // Campina Grande
+  ...["PB-095","PB-101","PB-115","PB-121","PB-123","PB-127","PB-133","PB-138","PB-148","PB-151","PB-163","PB-177"]
+    .map(r => ({road:r,residence:"Residência Rodoviária de Campina Grande",trecho:"Trecho a detalhar"}))
+];
+
+/* ========= Helpers ========= */
+const $ = sel => document.querySelector(sel);
+function uniq(arr){ return [...new Set(arr)].sort(); }
+
+function buildLookups(){
+  $('#rodovias').innerHTML = uniq(DATA.map(r=>r.road)).map(r=>`<option value="${r}">`).join('');
+}
+buildLookups();
+
+/* ========= Busca por Rodovia ========= */
+$('#searchRoad').addEventListener('click', ()=>{
+  const road = ($('#rodovia').value||'').trim().toUpperCase();
+  if(!road){ alert('Informe a rodovia (ex.: PB-008).'); return; }
+  const rows = DATA.filter(r=>r.road===road);
+  $('#roadName').textContent = road;
+  $('#roadTable').innerHTML = rows.map((r,i)=>`
+    <tr><td>${i+1}</td><td>${r.residence}</td><td>${r.trecho}</td></tr>`).join('');
+  $('#roadResults').classList.remove('hide');
+});
+$('#clearRoad').addEventListener('click', ()=>{
+  $('#rodovia').value=''; $('#roadResults').classList.add('hide');
+});
+</script>
+</body>
+</html>
