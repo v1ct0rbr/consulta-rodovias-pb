@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pesquisa de Rodovias – DER/PB</title>
+<link rel="icon" type="image/png" href="assets/images/road_icon.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="wrap">
+    <h1>Pesquisa de Rodovias — DER/PB</h1>
+    <p class="subtitle">Consulte por cidade ou por rodovia. Escolha um trecho para ver os detalhes técnicos.</p>
+  </header>
+
+  <main class="wrap">
+    <!-- PESQUISA POR CIDADE -->
+    <section class="card">
+      <h2 style="margin:0 0 8px">Buscar por Cidade</h2>
+      <div class="row">
+        <div>
+          <label for="city">Nome da Cidade</label>
+          <input id="city" list="cities" placeholder="Ex.: Sapé, Guarabira, Itabaiana…" />
+          <datalist id="cities"></datalist>
+          <div class="hint">Retorna as rodovias que atendem à cidade e a Residência Rodoviária responsável.</div>
+        </div>
+        <div style="align-self:end;display:flex;gap:8px">
+          <button id="searchCity">Pesquisar</button>
+          <button id="clearCity" class="secondary">Limpar</button>
+        </div>
+      </div>
+      <div id="cityResults" class="hide">
+        <h3 style="margin:14px 0 6px">Rodovias que atendem a <span id="cityName" class="pill"></span></h3>
+        <table>
+          <thead><tr>
+            <th>Rodovia</th><th>Trecho (Resumo)</th><th>Residência</th>
+          </tr></thead>
+          <tbody id="cityTable"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- PESQUISA POR RODOVIA -->
+    <section class="card">
+      <h2 style="margin:0 0 8px">Buscar por Rodovia</h2>
+      <div class="row">
+        <div>
+          <label for="rodovia">Nome da Rodovia</label>
+          <input id="rodovia" list="rodovias" placeholder="Ex.: PB-008, PB-041, PB-073…" />
+          <datalist id="rodovias"></datalist>
+          <div class="hint">Retorna todos os trechos cadastrados da rodovia e a Residência responsável.</div>
+        </div>
+        <div style="align-self:end;display:flex;gap:8px">
+          <button id="searchRoad">Pesquisar</button>
+          <button id="clearRoad" class="secondary">Limpar</button>
+        </div>
+      </div>
+
+      <div id="roadResults" class="hide">
+        <h3 style="margin:14px 0 6px">Trechos da <span id="roadName" class="pill"></span></h3>
+        <table>
+          <thead><tr>
+            <th>#</th><th>Trecho</th><th>Residência</th><th>Ext. (Km)</th><th>Sit. Fís.</th>
+          </tr></thead>
+          <tbody id="roadTable"></tbody>
+        </table>
+
+        <div id="trechoBox" class="hide">
+          <h3 style="margin:16px 0 6px">Detalhes do trecho selecionado</h3>
+          <table>
+            <tbody id="trechoDetails"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
