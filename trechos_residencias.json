@@ -1,0 +1,6418 @@
+{
+  "Residência de Sapé": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-004",
+      "TRECHO": "Terminal Rod. de João Pessoa - Bayeux(Rua Eng.Carvalho)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.52,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.52,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-004",
+      "TRECHO": "Bayeux - Santa Rita (Praça Getúlio Vargas)",
+      "INÍCIO DO TRECHO\n(Km)": 4.52,
+      "FIM DO TRECHO\n(Km)": 10.31,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.79,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-004",
+      "TRECHO": "Santa Rita - Cruz do Espírito Santo",
+      "INÍCIO DO TRECHO\n(Km)": 10.31,
+      "FIM DO TRECHO\n(Km)": 24.56,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.25,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-004",
+      "TRECHO": "Cruz do Espírito Santo - Entr. PB-073 (Sapé)",
+      "INÍCIO DO TRECHO\n(Km)": 24.56,
+      "FIM DO TRECHO\n(Km)": 42.25,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.69,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. BR-230 (Cabedelo) - Porto de Cabedelo",
+      "INÍCIO DO TRECHO\n(Km)": 86.13,
+      "FIM DO TRECHO\n(Km)": 92.11,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Costinha - Entr. PB-019",
+      "INÍCIO DO TRECHO\n(Km)": 94.06,
+      "FIM DO TRECHO\n(Km)": 95.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.54,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-019 - Entr. PB-025 (Lucena)",
+      "INÍCIO DO TRECHO\n(Km)": 95.6,
+      "FIM DO TRECHO\n(Km)": 103.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-025 (Lucena) - Barra de Mamanguape",
+      "INÍCIO DO TRECHO\n(Km)": 103.6,
+      "FIM DO TRECHO\n(Km)": 118.97,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.37,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Barra de Mamamanguape - Entr. PB-041 (Baía da Traição)",
+      "INÍCIO DO TRECHO\n(Km)": 118.97,
+      "FIM DO TRECHO\n(Km)": 126.35,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.38,
+      "SITUAÇÃO FÍSICA": "Plano"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-041 (Baía da Traição) - Entr. PB-061 (B. de Camaratuba)",
+      "INÍCIO DO TRECHO\n(Km)": 126.35,
+      "FIM DO TRECHO\n(Km)": 129.26,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.91,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-061 (B. de Camaratuba) - Entr. PB-065 (Div.PB/RN)",
+      "INÍCIO DO TRECHO\n(Km)": 129.26,
+      "FIM DO TRECHO\n(Km)": 139.17,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.91,
+      "SITUAÇÃO FÍSICA": "Plano"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-011",
+      "TRECHO": "Entr. BR-101 - Forte Velho",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": 19.86,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.86,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-019",
+      "TRECHO": "Entr. PB-008 - Entr. Acesso a Igreja da Guia",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 2.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.36,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-019",
+      "TRECHO": "Entr. Acesso a Igreja da Guia - Entr. PB-025",
+      "INÍCIO DO TRECHO\n(Km)": 2.36,
+      "FIM DO TRECHO\n(Km)": 6.7,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.34,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-025",
+      "TRECHO": "Entr. BR-101 - Entr. PB-027",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.43,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.43,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-025",
+      "TRECHO": "Entr. PB-027 - Entr. Acesso a Destilaria Jacuípe",
+      "INÍCIO DO TRECHO\n(Km)": 10.43,
+      "FIM DO TRECHO\n(Km)": 11.22,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.79,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-025",
+      "TRECHO": "Entr. Acesso Destilaria Jacuípe - Lerolândia",
+      "INÍCIO DO TRECHO\n(Km)": 11.22,
+      "FIM DO TRECHO\n(Km)": 12.08,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.86,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-025",
+      "TRECHO": "Lerolândia - Entr. PB-019",
+      "INÍCIO DO TRECHO\n(Km)": 12.08,
+      "FIM DO TRECHO\n(Km)": 23.15,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.07,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-025",
+      "TRECHO": "Entr. PB-019 - Entr. PB-008 (Lucena)",
+      "INÍCIO DO TRECHO\n(Km)": 23.15,
+      "FIM DO TRECHO\n(Km)": 29.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.12,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-027",
+      "TRECHO": "Entr. PB-025 - Entr.BR-101(Jacaraúna)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 9.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.1,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Entr. PB-073 (Sapé) - Capim",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 21.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Capim - Entr. BR-101(A)",
+      "INÍCIO DO TRECHO\n(Km)": 21.2,
+      "FIM DO TRECHO\n(Km)": 28.58,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.38,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Entr.BR-101(A) - Entr.BR-101(B)Mamanguape",
+      "INÍCIO DO TRECHO\n(Km)": 28.58,
+      "FIM DO TRECHO\n(Km)": 33.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Entr. BR-101 (Mamanguape) - Rio Tinto",
+      "INÍCIO DO TRECHO\n(Km)": 33.4,
+      "FIM DO TRECHO\n(Km)": 41.69,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.29,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Rio Tinto - Marcação",
+      "INÍCIO DO TRECHO\n(Km)": 41.69,
+      "FIM DO TRECHO\n(Km)": 50.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.71,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Marcação - Entr. PB-008 (Baía da Traição)",
+      "INÍCIO DO TRECHO\n(Km)": 50.4,
+      "FIM DO TRECHO\n(Km)": 64.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-041",
+      "TRECHO": "Entr. PB-008 - Baía da Traição",
+      "INÍCIO DO TRECHO\n(Km)": 64.5,
+      "FIM DO TRECHO\n(Km)": 66.75,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.25,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-045",
+      "TRECHO": "Entr.PB-041 - Cuité de Mamanguape",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.26,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-049",
+      "TRECHO": "Entr. PB-073 - Cuité de Mamanguape",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 19.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-049",
+      "TRECHO": "Cuité de Mamanguape - Entr. PB-057 (Itapororoca)",
+      "INÍCIO DO TRECHO\n(Km)": 19,
+      "FIM DO TRECHO\n(Km)": 32.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.6,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-049",
+      "TRECHO": "Itapororoca - Entr. PB-069 ",
+      "INÍCIO DO TRECHO\n(Km)": 32.6,
+      "FIM DO TRECHO\n(Km)": 43.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.5,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-049",
+      "TRECHO": "Entr. PB-069 - Curral de Cima",
+      "INÍCIO DO TRECHO\n(Km)": 43.1,
+      "FIM DO TRECHO\n(Km)": 48.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.2,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-051",
+      "TRECHO": "Caldas Brandão - Entr. PB-073 (Mari)",
+      "INÍCIO DO TRECHO\n(Km)": 8.98,
+      "FIM DO TRECHO\n(Km)": 14.69,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.71,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-057",
+      "TRECHO": "Entr. BR-101 (Mamanguape) - Itapororoca (Centro)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.88,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.88,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-057",
+      "TRECHO": "Itapororoca (Centro) - Araçagi (Centro)",
+      "INÍCIO DO TRECHO\n(Km)": 13.88,
+      "FIM DO TRECHO\n(Km)": 31.31,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.43,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-057",
+      "TRECHO": "Araçagi (Centro) - Entr. PB-073 (Guarabira)",
+      "INÍCIO DO TRECHO\n(Km)": 31.31,
+      "FIM DO TRECHO\n(Km)": 46.79,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.48,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-061",
+      "TRECHO": "Entr. PB-065 - Entr.PB-008 (Barra de Camaratuba)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.17,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.17,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-063",
+      "TRECHO": "Gurinhém - Entr. PB-067 (Mulungu)",
+      "INÍCIO DO TRECHO\n(Km)": 7.78,
+      "FIM DO TRECHO\n(Km)": 19.58,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-063",
+      "TRECHO": "Entr. PB-067 (Mulungu) - Entr. PB-075 (Alagoinha)",
+      "INÍCIO DO TRECHO\n(Km)": 19.58,
+      "FIM DO TRECHO\n(Km)": 33.7,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.12,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-065",
+      "TRECHO": "Entr. BR-101 - Entr. Acesso a Mataraca",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.93,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.93,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-065",
+      "TRECHO": "Entr. Acesso a Mataraca - Entr. PB-061",
+      "INÍCIO DO TRECHO\n(Km)": 8.93,
+      "FIM DO TRECHO\n(Km)": 13.57,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.64,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-067",
+      "TRECHO": "Entr. PB-063(Mulungu) - Entr. PB-075/079(Alagoa Grande)",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": 43.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 27.27,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-069",
+      "TRECHO": "Entr. PB-049 - Estacada",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.4,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-069",
+      "TRECHO": "Estacada - Sertãozinho",
+      "INÍCIO DO TRECHO\n(Km)": 8.4,
+      "FIM DO TRECHO\n(Km)": 19.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.1,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-069",
+      "TRECHO": "Sertãozinho - Entr.PB-081/085 (Duas Estradas)",
+      "INÍCIO DO TRECHO\n(Km)": 19.5,
+      "FIM DO TRECHO\n(Km)": 28.35,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.85,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-069",
+      "TRECHO": "Entr. PB-081/085 (Duas Estradas) - Serra da Raiz",
+      "INÍCIO DO TRECHO\n(Km)": 28.35,
+      "FIM DO TRECHO\n(Km)": 31.96,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.61,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-069",
+      "TRECHO": "Serra da Raiz - Entr. PB-089",
+      "INÍCIO DO TRECHO\n(Km)": 31.96,
+      "FIM DO TRECHO\n(Km)": 40.55,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.59,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-071",
+      "TRECHO": "Entr. BR-101 - Entr. com acesso para Curral de Cima",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 9.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.99,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-071",
+      "TRECHO": "Entr. c/ Acesso p/ Curral de Cima -  Entr. PB-085",
+      "INÍCIO DO TRECHO\n(Km)": 9.99,
+      "FIM DO TRECHO\n(Km)": 21.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.88,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-071",
+      "TRECHO": "Entr. PB-085 - Jacaraú",
+      "INÍCIO DO TRECHO\n(Km)": 21.87,
+      "FIM DO TRECHO\n(Km)": 25.19,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.32,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-071",
+      "TRECHO": "Jacaraú - Divisa PB.RN(para Nova Cruz)",
+      "INÍCIO DO TRECHO\n(Km)": 25.19,
+      "FIM DO TRECHO\n(Km)": 47.23,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.04,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. BR-230 - Entr. PB-041 (Sapé)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.65,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.65,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-041 (Sapé) - Entr. PB-051 (Mari)",
+      "INÍCIO DO TRECHO\n(Km)": 12.65,
+      "FIM DO TRECHO\n(Km)": 22.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.15,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-051 (Mari) - Entr. PB-067",
+      "INÍCIO DO TRECHO\n(Km)": 22.8,
+      "FIM DO TRECHO\n(Km)": 25.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.57,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-067 - Entr. PB-057(Guarabira)",
+      "INÍCIO DO TRECHO\n(Km)": 25.37,
+      "FIM DO TRECHO\n(Km)": 51.11,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.74,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-057(Guarabira) - Entr. PB-075(Guarabira)",
+      "INÍCIO DO TRECHO\n(Km)": 51.11,
+      "FIM DO TRECHO\n(Km)": 52.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.43,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-075(Guarabira) - Entr. PB-085(Pirpirituba)",
+      "INÍCIO DO TRECHO\n(Km)": 52.54,
+      "FIM DO TRECHO\n(Km)": 65.03,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.49,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-085 (Pirpirituba) - Entr. PB-105 (Rua Nova)",
+      "INÍCIO DO TRECHO\n(Km)": 65.03,
+      "FIM DO TRECHO\n(Km)": 73.81,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.78,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-075",
+      "TRECHO": "Entr.PB-067/079(Alagoa Grande) - Entr.PB-063(Alagoinha)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.25,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.25,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-075",
+      "TRECHO": "Entr. PB-063 (Alagoinha) - Entr. PB-077 (Cuitegi)",
+      "INÍCIO DO TRECHO\n(Km)": 14.25,
+      "FIM DO TRECHO\n(Km)": 20.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.74,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-075",
+      "TRECHO": "Entr. PB-077 (Cuitegi) - Entr. PB-073(Guarabira) ",
+      "INÍCIO DO TRECHO\n(Km)": 20.99,
+      "FIM DO TRECHO\n(Km)": 27.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.55,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-081",
+      "TRECHO": "Entr. PB-085/069 (Duas Estradas) - Entr. PB-089 (Logradouro)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 9.32,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.32,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Entr.PB-073 (Pirpirituba) - Sertãozinho",
+      "INÍCIO DO TRECHO\n(Km)": 37.02,
+      "FIM DO TRECHO\n(Km)": 44.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.18,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Sertãozinho - Entr.PB-069/081 (Duas Estradas)",
+      "INÍCIO DO TRECHO\n(Km)": 44.2,
+      "FIM DO TRECHO\n(Km)": 53.05,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": " Entr. PB-069/081 (Duas Estradas) - Lagoa de Dentro",
+      "INÍCIO DO TRECHO\n(Km)": 53.05,
+      "FIM DO TRECHO\n(Km)": 58.29,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.24,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Lagoa de Dentro - Pedro Régis",
+      "INÍCIO DO TRECHO\n(Km)": 58.29,
+      "FIM DO TRECHO\n(Km)": 69.49,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Pedro Régis - Entr. PB-071(p/Jacaraú)",
+      "INÍCIO DO TRECHO\n(Km)": 69.49,
+      "FIM DO TRECHO\n(Km)": 72.48,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.99,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-101/230 - Terminal Rodoviário de João Pessoa",
+      "INÍCIO DO TRECHO\n(Km)": "A 4,0 km do Gir. de Oitizeiro",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.2,
+      "SITUAÇÃO FÍSICA": "Duplicado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-041/Renascença",
+      "INÍCIO DO TRECHO\n(Km)": "A 5,0 km de Sapé",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-071 - Curral de Cima",
+      "INÍCIO DO TRECHO\n(Km)": "A 10,0 km do Entr. c/a BR-101",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-019 - Igreja da Guia",
+      "INÍCIO DO TRECHO\n(Km)": "A 4,0 km do Entr. c/a PB-025",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": "Acesso a usina Jacuípe",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.11,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-065 - Mataraca",
+      "INÍCIO DO TRECHO\n(Km)": "A 11,0 km do Entr. c/a BR-101",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-041 (Sapé) - Entr. PB-051 (Mari)",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-073 - Riachão do Poço",
+      "INÍCIO DO TRECHO\n(Km)": "A 6,0 km do Entr. c/a BR-230",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-230 - Santa Rita",
+      "INÍCIO DO TRECHO\n(Km)": "A 6,0 km do Entr. c/a BR-101",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-073 - Cachoeira dos Guedes",
+      "INÍCIO DO TRECHO\n(Km)": "A 3,0 km de Guarabira",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-073 - Sobrado",
+      "INÍCIO DO TRECHO\n(Km)": "A 8,0 km do Entr. c/a BR-230",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de Itabaiana": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-044(A) - Acesso a Praia de Acaú",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.68,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.68,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Acesso a Praia de Acaú - Pitimbu",
+      "INÍCIO DO TRECHO\n(Km)": 5.68,
+      "FIM DO TRECHO\n(Km)": 14.61,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.93,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Pitimbu - Entr. PB-44(B)",
+      "INÍCIO DO TRECHO\n(Km)": 14.61,
+      "FIM DO TRECHO\n(Km)": 17.56,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.95,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-044(B) - Entr. Acesso a Praia de Tambaba",
+      "INÍCIO DO TRECHO\n(Km)": 17.56,
+      "FIM DO TRECHO\n(Km)": 36.51,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.95,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. Acesso a Praia de Tambaba - Entr. PB-018 (Jacumã)(A)",
+      "INÍCIO DO TRECHO\n(Km)": 36.51,
+      "FIM DO TRECHO\n(Km)": 47.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.55,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-018 (Jacumã) -  Entr. PB-018 (B)",
+      "INÍCIO DO TRECHO\n(Km)": 47.06,
+      "FIM DO TRECHO\n(Km)": 49.11,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.05,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. PB-018 (B) - Entr. Acesso a Praia de Jacarapé",
+      "INÍCIO DO TRECHO\n(Km)": 49.11,
+      "FIM DO TRECHO\n(Km)": 60.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.25,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Entr. Acesso a Praia de Jacarapé - Farol do Cabo Branco",
+      "INÍCIO DO TRECHO\n(Km)": 60.36,
+      "FIM DO TRECHO\n(Km)": 66.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.51,
+      "SITUAÇÃO FÍSICA": "Duplicado"
+    },
+    {
+      "RODOVIA": "PB-008",
+      "TRECHO": "Farol do Cabo Branco -  Entr. BR-230 (Cabedelo)",
+      "INÍCIO DO TRECHO\n(Km)": 66.86,
+      "FIM DO TRECHO\n(Km)": 86.13,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-014",
+      "TRECHO": "Entr. BR-101 - Caxitu - Mituaçu - Entr. PB-008",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.24,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.24,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-016",
+      "TRECHO": "Entr. BR-230 - Água Mineral Indaiá",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.83,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.83,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-016",
+      "TRECHO": "Água Mineral Indaiá - Odilândia",
+      "INÍCIO DO TRECHO\n(Km)": 5.83,
+      "FIM DO TRECHO\n(Km)": 7.83,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-016",
+      "TRECHO": "Odilândia - BR-101",
+      "INÍCIO DO TRECHO\n(Km)": 7.83,
+      "FIM DO TRECHO\n(Km)": 20.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.45,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-018",
+      "TRECHO": "Entr. BR-101 - Conde (Igreja Católica)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 3.67,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.67,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-018",
+      "TRECHO": "Conde - Entr. PB-008",
+      "INÍCIO DO TRECHO\n(Km)": 3.67,
+      "FIM DO TRECHO\n(Km)": 15.08,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.41,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-018",
+      "TRECHO": "Entr. PB-008 - Jacumã",
+      "INÍCIO DO TRECHO\n(Km)": 15.08,
+      "FIM DO TRECHO\n(Km)": 16.56,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-024",
+      "TRECHO": "Entr. PB-018 - Mata da Chica - Entr. PB-008 (Coqueirinho)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.68,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.68,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-028",
+      "TRECHO": "Entr. PB-032 - Fábrica de Cimento Elizabeth",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.34,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.34,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-028",
+      "TRECHO": "Fábrica de Cimento Elizabeth - Entr. PB-008",
+      "INÍCIO DO TRECHO\n(Km)": 6.34,
+      "FIM DO TRECHO\n(Km)": 14.22,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.88,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-030",
+      "TRECHO": "Entr. BR-230 - Pedras de Fogo",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 28.21,
+      "EXTENÇÃO DO TRECHO \n(Km)": 28.21,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-032",
+      "TRECHO": "Pedras de Fogo - Usina Giasa ",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.07,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.07,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-032",
+      "TRECHO": "Usina Giasa - Entr. BR-101 (Mata Redonda) ",
+      "INÍCIO DO TRECHO\n(Km)": 13.07,
+      "FIM DO TRECHO\n(Km)": 22.13,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-034",
+      "TRECHO": "Entr. BR-101 (Mata Redonda) - Alhandra (Igreja Católica)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 11.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.99,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-034",
+      "TRECHO": "Alhandra - Cupissura - Entr. PB-044 (Caaporã)",
+      "INÍCIO DO TRECHO\n(Km)": 11.99,
+      "FIM DO TRECHO\n(Km)": 20.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.65,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-036",
+      "TRECHO": "Alhandra - Entr. PB-008",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.64,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-036",
+      "TRECHO": "Entr. PB-008 - Praia do Abiaí",
+      "INÍCIO DO TRECHO\n(Km)": 10.64,
+      "FIM DO TRECHO\n(Km)": 14.18,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.54,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-042",
+      "TRECHO": "Entr. PB-048 - São Miguel de Taipu",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.21,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.21,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-042",
+      "TRECHO": "São Miguel de Taipu - Entr. PB-048 (Pilar)",
+      "INÍCIO DO TRECHO\n(Km)": 4.21,
+      "FIM DO TRECHO\n(Km)": 9.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.69,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-044",
+      "TRECHO": "Entr. BR-101 - Caaporã",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.05,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.05,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-044",
+      "TRECHO": "Caaporã - Entr. PB-008 (A)",
+      "INÍCIO DO TRECHO\n(Km)": 8.05,
+      "FIM DO TRECHO\n(Km)": 14.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.59,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-044",
+      "TRECHO": "Entr. PB-008 (A) - Entr. PB-008 (B)",
+      "INÍCIO DO TRECHO\n(Km)": 14.64,
+      "FIM DO TRECHO\n(Km)": 20.95,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.31,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-044",
+      "TRECHO": "Entr. PB-008 (B) - Pitimbu",
+      "INÍCIO DO TRECHO\n(Km)": 20.95,
+      "FIM DO TRECHO\n(Km)": 23.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-048",
+      "TRECHO": "Entr. BR-230 - Entr. PB-042 (A)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.03,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.03,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-048",
+      "TRECHO": "Entr. PB-042 (A) - Entr. PB-042 (Pilar) (B)",
+      "INÍCIO DO TRECHO\n(Km)": 6.03,
+      "FIM DO TRECHO\n(Km)": 10.05,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.02,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-048",
+      "TRECHO": "Entr. PB-042 (Pilar) (B) - Entr. PB-082",
+      "INÍCIO DO TRECHO\n(Km)": 10.05,
+      "FIM DO TRECHO\n(Km)": 14.47,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.42,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-048",
+      "TRECHO": "Entr. PB-082 - Entr. PB-066 (Div. PB/PE)(Juripiranga)",
+      "INÍCIO DO TRECHO\n(Km)": 14.47,
+      "FIM DO TRECHO\n(Km)": 23.33,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.86,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-051",
+      "TRECHO": "Entr. BR-230 (Cajá) - Caldas Brandão",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.98,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.98,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-054",
+      "TRECHO": "Entr. BR-230 - Entr. Acesso a São José dos Ramos",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.46,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-054",
+      "TRECHO": "Entr. Acesso a S. J. dos Ramos- Entr.PB-066(Itabaiana)",
+      "INÍCIO DO TRECHO\n(Km)": 8.46,
+      "FIM DO TRECHO\n(Km)": 18.13,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.67,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-063",
+      "TRECHO": "Entr. BR-230 - Gurinhém (Igreja Católica)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.78,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.78,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-064",
+      "TRECHO": "Entr. PB-066 (Mogeiro) - Salgado de São Felix",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.52,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.52,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-064",
+      "TRECHO": "Salgado de São Felix - Alagamar - Divisa PB.PE",
+      "INÍCIO DO TRECHO\n(Km)": 6.52,
+      "FIM DO TRECHO\n(Km)": 23.15,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.63,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Entr. BR-230/PB-095 - Entr. PB-090 (Ingá)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Entr. PB-090 (Ingá) - Entr. Acesso a Itacoatiaras",
+      "INÍCIO DO TRECHO\n(Km)": 5.6,
+      "FIM DO TRECHO\n(Km)": 9.45,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.85,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Entr. Acesso a Itacoatiaras - Mogeiro",
+      "INÍCIO DO TRECHO\n(Km)": 9.45,
+      "FIM DO TRECHO\n(Km)": 22.77,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.32,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Mogeiro - Entr. PB-054(Itabaiana)",
+      "INÍCIO DO TRECHO\n(Km)": 22.77,
+      "FIM DO TRECHO\n(Km)": 39.86,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.09,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Entr. PB-054(Itabaiana) - Entr.PB-082(Itabaiana)",
+      "INÍCIO DO TRECHO\n(Km)": 39.86,
+      "FIM DO TRECHO\n(Km)": 40.35,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.49,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Entr. PB-082 (Itabaiana) - Entr. BR-408",
+      "INÍCIO DO TRECHO\n(Km)": 40.35,
+      "FIM DO TRECHO\n(Km)": 42.47,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.12,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-066",
+      "TRECHO": "Entr. BR-408 (Itabaiana) - Divisa PB.PE (Juripiranga)",
+      "INÍCIO DO TRECHO\n(Km)": 42.47,
+      "FIM DO TRECHO\n(Km)": 52.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.89,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-079",
+      "TRECHO": "Entr. BR-230 - Juarez Távora",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.47,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.47,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-079",
+      "TRECHO": "Juarez Távora - Entr. PB-067/075 (Alagoa Grande)",
+      "INÍCIO DO TRECHO\n(Km)": 4.47,
+      "FIM DO TRECHO\n(Km)": 22.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.03,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-079",
+      "TRECHO": "Entr. PB-067/075 (Alagoa Grande) - Entr. PB-097",
+      "INÍCIO DO TRECHO\n(Km)": 22.5,
+      "FIM DO TRECHO\n(Km)": 34.43,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.93,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-079",
+      "TRECHO": "Entr. PB-097 - Entr. PB-087(Areia)",
+      "INÍCIO DO TRECHO\n(Km)": 34.43,
+      "FIM DO TRECHO\n(Km)": 37.95,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.52,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-082",
+      "TRECHO": "Entr. BR-230 - Entr. PB-048",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 19.68,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.68,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-082",
+      "TRECHO": "Entr. PB-048 - Entr. PB-054/066 (Itabaiana)",
+      "INÍCIO DO TRECHO\n(Km)": 19.68,
+      "FIM DO TRECHO\n(Km)": 29.23,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.55,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-082",
+      "TRECHO": "Entr. PB-054/066 (Itabaiana) - Salgado de São Felix",
+      "INÍCIO DO TRECHO\n(Km)": 29.23,
+      "FIM DO TRECHO\n(Km)": 41.78,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.55,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-082",
+      "TRECHO": "Salgado de São Felix - Acauã",
+      "INÍCIO DO TRECHO\n(Km)": 41.78,
+      "FIM DO TRECHO\n(Km)": 58.35,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.57,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-082",
+      "TRECHO": "Acauã - Natuba",
+      "INÍCIO DO TRECHO\n(Km)": 58.35,
+      "FIM DO TRECHO\n(Km)": 87.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 29.11,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-082",
+      "TRECHO": "Natuba - Entr. PB-102 (Umbuzeiro)",
+      "INÍCIO DO TRECHO\n(Km)": 87.46,
+      "FIM DO TRECHO\n(Km)": 102.84,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.38,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-090",
+      "TRECHO": "Entr. PB-066 (Ingá) - Itatuba",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 11.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.36,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-090",
+      "TRECHO": "Itatuba - Entr. PB-092 (Aroeiras)",
+      "INÍCIO DO TRECHO\n(Km)": 11.36,
+      "FIM DO TRECHO\n(Km)": 37.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.92,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-092",
+      "TRECHO": "Entr. PB-082 (Pedro Velho) - Entr. PB-090 (Aroeiras)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.41,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.41,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-095",
+      "TRECHO": "Entr. BR-230/PB-066 - Serra Redonda",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 11.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-101/230 - Aeroporto Castro Pinto",
+      "INÍCIO DO TRECHO\n(Km)": "Girador de Bayeux",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-008 - Praia de Tambaba",
+      "INÍCIO DO TRECHO\n(Km)": "Conde",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-008 - Praia de Coqueirinho",
+      "INÍCIO DO TRECHO\n(Km)": "A 9,0 km de Jacumã",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-054 - São José dos Ramos",
+      "INÍCIO DO TRECHO\n(Km)": "A 8,0 km do Entr. c/a BR-230",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.9,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-054 - Itabaiana",
+      "INÍCIO DO TRECHO\n(Km)": "A 16,7 km da        BR-230",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-066 - Itacoatiara",
+      "INÍCIO DO TRECHO\n(Km)": "A 4,0 km de Ingá",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Natuba - Div.PB/PE",
+      "INÍCIO DO TRECHO\n(Km)": "Natuba",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 45.15,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.68,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 626.26,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de Solânea": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-057",
+      "TRECHO": "Entr. PB-073 (Guarabira) - Pilõezinhos",
+      "INÍCIO DO TRECHO\n(Km)": 46.78,
+      "FIM DO TRECHO\n(Km)": 52.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.24,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-057",
+      "TRECHO": "Pilõezinhos - Entr. PB-087 (Pilões)",
+      "INÍCIO DO TRECHO\n(Km)": 52.02,
+      "FIM DO TRECHO\n(Km)": 65.74,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.72,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-105/(Rua Nova) - Belém",
+      "INÍCIO DO TRECHO\n(Km)": 73.81,
+      "FIM DO TRECHO\n(Km)": 76.39,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.58,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Belém - Entr. PB-089",
+      "INÍCIO DO TRECHO\n(Km)": 76.39,
+      "FIM DO TRECHO\n(Km)": 78.32,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.93,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-089 - Entr. PB-103 (Bilinguim)",
+      "INÍCIO DO TRECHO\n(Km)": 78.32,
+      "FIM DO TRECHO\n(Km)": 93.59,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-103 (Bilinguim) - Entr. PB-133 (Tacima)",
+      "INÍCIO DO TRECHO\n(Km)": 93.59,
+      "FIM DO TRECHO\n(Km)": 104.91,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.32,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-073",
+      "TRECHO": "Entr. PB-133 (Tacima) - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 104.91,
+      "FIM DO TRECHO\n(Km)": 108.32,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.41,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-077",
+      "TRECHO": "Entr. PB-075 (Cuitegi) - Entr. PB-087 (Pilões)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.87,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-079",
+      "TRECHO": "Entr. PB-087(Areia) - Entr. PB-105 (Remígio)",
+      "INÍCIO DO TRECHO\n(Km)": 37.95,
+      "FIM DO TRECHO\n(Km)": 51.58,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.63,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-081",
+      "TRECHO": "Entr. PB-089 (Logradouro) - Div.PB/RN.",
+      "INÍCIO DO TRECHO\n(Km)": 9.32,
+      "FIM DO TRECHO\n(Km)": 24.67,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.35,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": " Entr. PB-105 (Arara) - Entr. PB-093 ",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.84,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.84,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Entr. PB-093 - Serraria ",
+      "INÍCIO DO TRECHO\n(Km)": 12.84,
+      "FIM DO TRECHO\n(Km)": 15.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.43,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Serraria - Entr. PB-087 (A) ",
+      "INÍCIO DO TRECHO\n(Km)": 15.27,
+      "FIM DO TRECHO\n(Km)": 20.04,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.77,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Entr. PB-087 (A) - Entr. PB-087(B) (Borborema) ",
+      "INÍCIO DO TRECHO\n(Km)": 20.04,
+      "FIM DO TRECHO\n(Km)": 22.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.96,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-085",
+      "TRECHO": "Entr. PB-087(B)(Borborema) - Entr. PB-073(Pirpirituba)",
+      "INÍCIO DO TRECHO\n(Km)": 22,
+      "FIM DO TRECHO\n(Km)": 37.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.02,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-087",
+      "TRECHO": "Entr. PB-079 (A) - Entr. PB-079 (B) (Areia)",
+      "INÍCIO DO TRECHO\n(Km)": 11.27,
+      "FIM DO TRECHO\n(Km)": 16.41,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-087",
+      "TRECHO": "Entr. PB-079 (Areia) - Entr. PB-077 (Pilões)",
+      "INÍCIO DO TRECHO\n(Km)": 16.41,
+      "FIM DO TRECHO\n(Km)": 37.34,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.93,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-087",
+      "TRECHO": "Entr. PB-077 (Pilões) - Entr. PB-085 (A)",
+      "INÍCIO DO TRECHO\n(Km)": 37.34,
+      "FIM DO TRECHO\n(Km)": 45.81,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.47,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-087",
+      "TRECHO": "Entr. PB-085 (A) - Entr. PB-085 (B) (Borborema)",
+      "INÍCIO DO TRECHO\n(Km)": 45.81,
+      "FIM DO TRECHO\n(Km)": 46.14,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-087",
+      "TRECHO": "Entr. PB-085 (B) (Borborema) - Entr. PB-105",
+      "INÍCIO DO TRECHO\n(Km)": 46.14,
+      "FIM DO TRECHO\n(Km)": 52.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.23,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-089",
+      "TRECHO": "Entr. PB-073 - Entr. PB-069",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-089",
+      "TRECHO": "Entr. PB-069 - Caiçara",
+      "INÍCIO DO TRECHO\n(Km)": 4.4,
+      "FIM DO TRECHO\n(Km)": 10.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.97,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-089",
+      "TRECHO": "Caiçara - Entr. PB-081(Logradouro) ",
+      "INÍCIO DO TRECHO\n(Km)": 10.37,
+      "FIM DO TRECHO\n(Km)": 14.79,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.42,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-091",
+      "TRECHO": "Entr. PB-093(Cachoeirinha) - Lagoa dos Gomes",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 18.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.02,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-093",
+      "TRECHO": "Entr. PB-085 - Entr. PB-105 (Solânea)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.33,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.33,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-103",
+      "TRECHO": "Entr. PB-105 (Bananeiras) - Tabuleiro",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.73,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.73,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-103",
+      "TRECHO": "Tabuleiro - Dona Inês",
+      "INÍCIO DO TRECHO\n(Km)": 7.73,
+      "FIM DO TRECHO\n(Km)": 23.33,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-103",
+      "TRECHO": "Dona Inês - Entr. PB-073 (Bilinguim)",
+      "INÍCIO DO TRECHO\n(Km)": 23.33,
+      "FIM DO TRECHO\n(Km)": 35.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.03,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Entr. PB-079 (Remígio) - Entr. PB-085 (Arara)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 16.75,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.75,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Entr. PB-085 (Arara) - Entr. PB-107",
+      "INÍCIO DO TRECHO\n(Km)": 16.75,
+      "FIM DO TRECHO\n(Km)": 23.17,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.42,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Entr. PB-107 - Entr. PB-111",
+      "INÍCIO DO TRECHO\n(Km)": 23.17,
+      "FIM DO TRECHO\n(Km)": 26.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.13,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Entr. PB-111 - Solânea",
+      "INÍCIO DO TRECHO\n(Km)": 26.3,
+      "FIM DO TRECHO\n(Km)": 32.44,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.14,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Solânea - Entr. PB-103 (Bananeiras)",
+      "INÍCIO DO TRECHO\n(Km)": 32.44,
+      "FIM DO TRECHO\n(Km)": 35.93,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.49,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Entr. PB-103 (Bananeiras) - Entr. PB-087",
+      "INÍCIO DO TRECHO\n(Km)": 35.93,
+      "FIM DO TRECHO\n(Km)": 42.84,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.91,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-105",
+      "TRECHO": "Entr. PB-087 - Entr. PB-073 (Rua Nova)",
+      "INÍCIO DO TRECHO\n(Km)": 42.84,
+      "FIM DO TRECHO\n(Km)": 50.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.44,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-107",
+      "TRECHO": "Entr. PB-105 - Casserengue",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.97,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.97,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-109",
+      "TRECHO": "Tacima - Riachão de Araruna",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-111",
+      "TRECHO": "Entr. PB-105 - Cacimba de Dentro",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 20.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.02,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-111",
+      "TRECHO": "Cacimba de Dentro - Entr. PB-133 (Barreiros)",
+      "INÍCIO DO TRECHO\n(Km)": 20.02,
+      "FIM DO TRECHO\n(Km)": 26.88,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.86,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-111",
+      "TRECHO": "Entr. PB-133 (Barreiros) - Araruna",
+      "INÍCIO DO TRECHO\n(Km)": 26.88,
+      "FIM DO TRECHO\n(Km)": 38.29,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.41,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-111",
+      "TRECHO": "Araruna - Entr. PB-073 (Tacima)",
+      "INÍCIO DO TRECHO\n(Km)": 38.29,
+      "FIM DO TRECHO\n(Km)": 52.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.61,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-117",
+      "TRECHO": "Entr. PB-125 - Pedra da Boca",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.3,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-125",
+      "TRECHO": "Araruna - Divisa PB/RN (para Serra de São Bento)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.48,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.48,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-127",
+      "TRECHO": "Entr. BR-104 - Algodão de Jandaíra",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.83,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-133",
+      "TRECHO": "Entr.BR-104 (Barra de Santa Rosa) - Damião",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 22.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.28,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-133",
+      "TRECHO": "Damião - Logradouro",
+      "INÍCIO DO TRECHO\n(Km)": 22.28,
+      "FIM DO TRECHO\n(Km)": 32.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.09,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-133",
+      "TRECHO": "Logradouro - Entr.PB-111 (Barreiros)",
+      "INÍCIO DO TRECHO\n(Km)": 32.37,
+      "FIM DO TRECHO\n(Km)": 35.97,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-135",
+      "TRECHO": "Entr. PB-133 (Barreiros) - Entr. BR-104 (Cuité)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 45.49,
+      "EXTENÇÃO DO TRECHO \n(Km)": 45.49,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-137",
+      "TRECHO": "Entr. BR-104/PB-167 - Entr. PB-169",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.81,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.81,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-137",
+      "TRECHO": "Entr. PB-169 - Entr. PB-151/177 (Picuí)",
+      "INÍCIO DO TRECHO\n(Km)": 10.81,
+      "FIM DO TRECHO\n(Km)": 27.38,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.57,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-151",
+      "TRECHO": "Entr.BR-104 (Nova Floresta) - Entr. PB-137",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 20.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-151",
+      "TRECHO": "Entr. PB-137 - Entr. PB-177 (Picuí)",
+      "INÍCIO DO TRECHO\n(Km)": 20.8,
+      "FIM DO TRECHO\n(Km)": 22.21,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-151",
+      "TRECHO": "Entr. PB-177 (Picuí) - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 22.21,
+      "FIM DO TRECHO\n(Km)": 35.78,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.57,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-167",
+      "TRECHO": "Entr. PB-177 - Cubati",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-167",
+      "TRECHO": "Cubati - Sossego",
+      "INÍCIO DO TRECHO\n(Km)": 6,
+      "FIM DO TRECHO\n(Km)": 27.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.27,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-167",
+      "TRECHO": "Sossego - Entr.PB-137/BR-104",
+      "INÍCIO DO TRECHO\n(Km)": 27.27,
+      "FIM DO TRECHO\n(Km)": 48.25,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.98,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-169",
+      "TRECHO": "Entr. PB-137 - Baraúnas",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.93,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.93,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Pedra Lavrada - Nova Palmeira",
+      "INÍCIO DO TRECHO\n(Km)": 41.42,
+      "FIM DO TRECHO\n(Km)": 52.62,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Nova Palmeira - Entr. PB-137/151 (Picuí)",
+      "INÍCIO DO TRECHO\n(Km)": 52.62,
+      "FIM DO TRECHO\n(Km)": 74.85,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.23,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Entr. PB-151/177 (Picuí) - Frei Martinho",
+      "INÍCIO DO TRECHO\n(Km)": 74.85,
+      "FIM DO TRECHO\n(Km)": 94.21,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.36,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Frei Martinho - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 94.21,
+      "FIM DO TRECHO\n(Km)": 99.76,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.55,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-087 - Vila Maia",
+      "INÍCIO DO TRECHO\n(Km)": "A 3,0 km do Entr. c/a PB-105",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-073 - Comunidade do Braga",
+      "INÍCIO DO TRECHO\n(Km)": "Cachoeirinha",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-087 - Usina Santa Maria",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.39,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Contorno acesso a Campo de Tacima",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 43.9,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.02,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 657.75,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de C. Grande": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-087",
+      "TRECHO": "Entr. PB-097 (Alagoa Nova) - Entr. PB-079 (Areia)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 11.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.27,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-090",
+      "TRECHO": "Entr. PB-092 (Aroeiras) - Entr. PB-102",
+      "INÍCIO DO TRECHO\n(Km)": 37.28,
+      "FIM DO TRECHO\n(Km)": 46.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.47,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-095",
+      "TRECHO": "Serra Redonda - Massaranduba",
+      "INÍCIO DO TRECHO\n(Km)": 11,
+      "FIM DO TRECHO\n(Km)": 19.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-095",
+      "TRECHO": "Massaranduba - Entr. BR-104 (Campina Grande)",
+      "INÍCIO DO TRECHO\n(Km)": 19.1,
+      "FIM DO TRECHO\n(Km)": 39.7,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-097",
+      "TRECHO": "Entr. BR-104 (Lagoa Seca) - Entr. PB-101",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-097",
+      "TRECHO": "Entr. PB-101 - Alagoa Nova",
+      "INÍCIO DO TRECHO\n(Km)": 7.8,
+      "FIM DO TRECHO\n(Km)": 18.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-097",
+      "TRECHO": "Alagoa Nova - Entr. PB-087",
+      "INÍCIO DO TRECHO\n(Km)": 18.1,
+      "FIM DO TRECHO\n(Km)": 20.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.7,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-097",
+      "TRECHO": "Entr. PB-087 - Entr. PB-079(A)",
+      "INÍCIO DO TRECHO\n(Km)": 20.8,
+      "FIM DO TRECHO\n(Km)": 29.09,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.29,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-098",
+      "TRECHO": "Fagundes - Aroeiras",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 34.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 34.6,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-099",
+      "TRECHO": "Lagoa Seca - Alvinho - Pai Domingos",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 9.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-099",
+      "TRECHO": "Pai Domingos - Puxinanã",
+      "INÍCIO DO TRECHO\n(Km)": 9,
+      "FIM DO TRECHO\n(Km)": 13.68,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.68,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-100",
+      "TRECHO": "Entr. BR-230 - Galante",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 3.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.11,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-100",
+      "TRECHO": "Galante - Fagundes",
+      "INÍCIO DO TRECHO\n(Km)": 3.1,
+      "FIM DO TRECHO\n(Km)": 10.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.44,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-100",
+      "TRECHO": "Fagundes - Entr. BR-104 (Queimadas)",
+      "INÍCIO DO TRECHO\n(Km)": 10.54,
+      "FIM DO TRECHO\n(Km)": 27.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.82,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-101",
+      "TRECHO": "Entr. PB-097 - Matinhas",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.28,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-102",
+      "TRECHO": "Entr. BR-104 - Entr. PB -090",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 21.86,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.86,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-102",
+      "TRECHO": "Entr. PB-090 - Entr. PB-132",
+      "INÍCIO DO TRECHO\n(Km)": 21.86,
+      "FIM DO TRECHO\n(Km)": 26.63,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.77,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-102",
+      "TRECHO": "Entr. PB-132 - Entr. PB-082 (Umbuzeiro)",
+      "INÍCIO DO TRECHO\n(Km)": 26.63,
+      "FIM DO TRECHO\n(Km)": 50.73,
+      "EXTENÇÃO DO TRECHO \n(Km)": 24.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-106",
+      "TRECHO": "Entr. PB-100 (Galante) - Entr. BR-104 (Ligeiro)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.4,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-113",
+      "TRECHO": "Montadas - Entr. PB-099 (Pai Domingos)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.37,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-113",
+      "TRECHO": "Entr. PB-099 (Pai Domingos) - Jenipapo",
+      "INÍCIO DO TRECHO\n(Km)": 12,
+      "FIM DO TRECHO\n(Km)": 14.76,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.39,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-113",
+      "TRECHO": "Jenipapo - Campina Grande",
+      "INÍCIO DO TRECHO\n(Km)": 14.76,
+      "FIM DO TRECHO\n(Km)": 20.67,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.91,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-115",
+      "TRECHO": "Entr. BR-230 - Puxinanã",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.7,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.7,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-115",
+      "TRECHO": "Puxinanã - Montadas",
+      "INÍCIO DO TRECHO\n(Km)": 5.7,
+      "FIM DO TRECHO\n(Km)": 12.91,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.21,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-115",
+      "TRECHO": "Montadas - Entr. PB-121",
+      "INÍCIO DO TRECHO\n(Km)": 12.91,
+      "FIM DO TRECHO\n(Km)": 15.14,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.23,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-121",
+      "TRECHO": "Entr. BR-230 - Pocinhos",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.18,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.18,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-121",
+      "TRECHO": "Pocinhos - Entr. PB-115",
+      "INÍCIO DO TRECHO\n(Km)": 10.18,
+      "FIM DO TRECHO\n(Km)": 21.96,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.78,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-121",
+      "TRECHO": "Entr. PB-115 - Areal",
+      "INÍCIO DO TRECHO\n(Km)": 21.96,
+      "FIM DO TRECHO\n(Km)": 26.79,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.83,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-121",
+      "TRECHO": "Areal - Entr. BR-104 (Esperança)",
+      "INÍCIO DO TRECHO\n(Km)": 26.79,
+      "FIM DO TRECHO\n(Km)": 35.51,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.72,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-123",
+      "TRECHO": "Pocinhos - Entr. PB-127",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 24.77,
+      "EXTENÇÃO DO TRECHO \n(Km)": 24.77,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-132",
+      "TRECHO": "Floresta  - Laje",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.0,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-132",
+      "TRECHO": "Laje  - Boqueirão",
+      "INÍCIO DO TRECHO\n(Km)": 13,
+      "FIM DO TRECHO\n(Km)": 20.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 33.0,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-132",
+      "TRECHO": "Boqueirão - Barra de Santana",
+      "INÍCIO DO TRECHO\n(Km)": 20,
+      "FIM DO TRECHO\n(Km)": 36.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.8,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-132",
+      "TRECHO": "Barra de Santana - Gado Bravo",
+      "INÍCIO DO TRECHO\n(Km)": 36.8,
+      "FIM DO TRECHO\n(Km)": 63.94,
+      "EXTENÇÃO DO TRECHO \n(Km)": 27.14,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-132",
+      "TRECHO": "Gado Bravo - Entr.PB-102",
+      "INÍCIO DO TRECHO\n(Km)": 63.94,
+      "FIM DO TRECHO\n(Km)": 68.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.42,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-138",
+      "TRECHO": "Entr.BR-230(Campina Grande) - Catolé de Boa Vista ",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 18.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-138",
+      "TRECHO": "Catolé de Boa Vista - Entr.BR-412(Boa Vista)",
+      "INÍCIO DO TRECHO\n(Km)": 18.5,
+      "FIM DO TRECHO\n(Km)": 34.34,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.84,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-139",
+      "TRECHO": "Entr. BR-104 (Barra de Santa Rosa) - Malhada",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 30.43,
+      "EXTENÇÃO DO TRECHO \n(Km)": 30.43,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-139",
+      "TRECHO": "Malhada - Entr. PB-121 (Pocinhos)",
+      "INÍCIO DO TRECHO\n(Km)": 30.43,
+      "FIM DO TRECHO\n(Km)": 52.67,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.24,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-139",
+      "TRECHO": "Entr.PB-131 (Pocinhos) - Fazenda Palmares - Entr. BR-230",
+      "INÍCIO DO TRECHO\n(Km)": 52.67,
+      "FIM DO TRECHO\n(Km)": 63.97,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.3,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-141",
+      "TRECHO": "Entr. PB-121 (Pocinhos) - Nazaré ",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.4,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-141",
+      "TRECHO": " Nazaré - Entr. BR-230",
+      "INÍCIO DO TRECHO\n(Km)": 14.4,
+      "FIM DO TRECHO\n(Km)": 20.41,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.01,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-147",
+      "TRECHO": "Entr. PB-121 (Pocinhos) - Entr. PB-157 (Olivedos)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.15,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.15,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-147",
+      "TRECHO": "Entr. PB-157 (Olivedos) - Entr. PB-177",
+      "INÍCIO DO TRECHO\n(Km)": 25.15,
+      "FIM DO TRECHO\n(Km)": 42.59,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.44,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. BR-104 (Queimadas) - Entr. Acesso a Caturité",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.46,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. Acesso a Caturité - Entr. PB-132 (Boqueirão)",
+      "INÍCIO DO TRECHO\n(Km)": 14.46,
+      "FIM DO TRECHO\n(Km)": 29.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.56,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. PB-132 (Boqueirão) - Entr. PB-160",
+      "INÍCIO DO TRECHO\n(Km)": 29.02,
+      "FIM DO TRECHO\n(Km)": 50.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.85,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. PB-160 - Cabaceiras",
+      "INÍCIO DO TRECHO\n(Km)": 50.87,
+      "FIM DO TRECHO\n(Km)": 52.41,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.54,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Cabaceiras - Entr. BR-412 (A)",
+      "INÍCIO DO TRECHO\n(Km)": 52.41,
+      "FIM DO TRECHO\n(Km)": 86.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 34.05,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. BR-412 (A) - Entr.BR-412(B)(São João do Cariri)",
+      "INÍCIO DO TRECHO\n(Km)": 86.46,
+      "FIM DO TRECHO\n(Km)": 88.31,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-150",
+      "TRECHO": "Entr.BR-104 - Alcantil",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.17,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-150",
+      "TRECHO": "Alcantil - Santa Cecília de Umbuzeiro",
+      "INÍCIO DO TRECHO\n(Km)": 4.1,
+      "FIM DO TRECHO\n(Km)": 28.47,
+      "EXTENÇÃO DO TRECHO \n(Km)": 24.37,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-150",
+      "TRECHO": "Santa Cecília de Umbuzeiro - Divisa PB.PE",
+      "INÍCIO DO TRECHO\n(Km)": 28.47,
+      "FIM DO TRECHO\n(Km)": 30.09,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.62,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-157",
+      "TRECHO": "Entr. BR-230 - Olivedos",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.01,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-160",
+      "TRECHO": "Divisa PB/PE - Entr. PB-196 (Barra de São Miguel)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-160",
+      "TRECHO": "Entr. PB-196 (Barra de São Miguel) - Entr. PB-186",
+      "INÍCIO DO TRECHO\n(Km)": 5,
+      "FIM DO TRECHO\n(Km)": 36.63,
+      "EXTENÇÃO DO TRECHO \n(Km)": 31.63,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-160",
+      "TRECHO": "Entr.PB-186 - Entr.PB-148(Cabaceiras)",
+      "INÍCIO DO TRECHO\n(Km)": 36.63,
+      "FIM DO TRECHO\n(Km)": 41.09,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.46,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-160",
+      "TRECHO": "Entr.PB-148(Cabaceiras) - Entr. BR-412 (Boa Vista)     ",
+      "INÍCIO DO TRECHO\n(Km)": 41.09,
+      "FIM DO TRECHO\n(Km)": 69.65,
+      "EXTENÇÃO DO TRECHO \n(Km)": 28.56,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-176",
+      "TRECHO": "Entr. BR-230 (Soledade) - Fazenda Pendência",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.19,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-176",
+      "TRECHO": "Fazenda Pendência - Entr. PB-202 (Gurjão)",
+      "INÍCIO DO TRECHO\n(Km)": 25.2,
+      "FIM DO TRECHO\n(Km)": 33.14,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.94,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-176",
+      "TRECHO": "Entr. PB-202 (Gurjão) - Entr. BR-412",
+      "INÍCIO DO TRECHO\n(Km)": 33.14,
+      "FIM DO TRECHO\n(Km)": 45.81,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.67,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Entr. BR-230 (Soledade) - Entr. PB-157",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 3.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Entr. PB-157 - Acesso São Vicente do Seridó",
+      "INÍCIO DO TRECHO\n(Km)": 3.1,
+      "FIM DO TRECHO\n(Km)": 14.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Acesso São Vicente do Seridó - Entr. PB-167",
+      "INÍCIO DO TRECHO\n(Km)": 14.37,
+      "FIM DO TRECHO\n(Km)": 19.16,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.79,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Entr. PB-167 - Seridó",
+      "INÍCIO DO TRECHO\n(Km)": 19.16,
+      "FIM DO TRECHO\n(Km)": 24.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.9,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-177",
+      "TRECHO": "Seridó - Pedra Lavrada",
+      "INÍCIO DO TRECHO\n(Km)": 24.06,
+      "FIM DO TRECHO\n(Km)": 41.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-195",
+      "TRECHO": "Entr.BR-230(Juazeirinho) - Tenório",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.38,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.38,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr. BR-104 - Riacho de Santo Antônio",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 11.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.02,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Riacho de S. Antônio - Entr. PB-160 (Barra de São Miguel)",
+      "INÍCIO DO TRECHO\n(Km)": 11,
+      "FIM DO TRECHO\n(Km)": 32.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Entr. BR-230 - Entr. BR-238 (Assunção)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.26,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.26,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-412 - Boa Vista",
+      "INÍCIO DO TRECHO\n(Km)": "A 21,0 km do Entr. c/a BR-230",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.9,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-148 - Caturité",
+      "INÍCIO DO TRECHO\n(Km)": "A 15,0 km de Queimadas",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-177 - São Vicente do Seridó",
+      "INÍCIO DO TRECHO\n(Km)": "A 3,0 km do Entr. c/a PB-157",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Acesso ao Açude Epitácio Pessoa",
+      "INÍCIO DO TRECHO\n(Km)": "Boqueirão ",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 178.79,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.7,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 921.57,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de Sumé": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. BR-412(B)(São João do Cariri) - Entr. PB-202",
+      "INÍCIO DO TRECHO\n(Km)": 88.31,
+      "FIM DO TRECHO\n(Km)": 90.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.96,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. PB-202 - Entr. PB-200",
+      "INÍCIO DO TRECHO\n(Km)": 88.4,
+      "FIM DO TRECHO\n(Km)": 104.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.57,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. PB-200 - Entr. PB-210 (São José dos Cordeiros)",
+      "INÍCIO DO TRECHO\n(Km)": 104.9,
+      "FIM DO TRECHO\n(Km)": 117.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.16,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr.PB-210(São José dos Cordeiros)-Entr.PB-226(Livramento)",
+      "INÍCIO DO TRECHO\n(Km)": 117.8,
+      "FIM DO TRECHO\n(Km)": 135.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.87,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-148",
+      "TRECHO": "Entr. PB-226 (Livramento) - Div.PB/PE",
+      "INÍCIO DO TRECHO\n(Km)": 135.6,
+      "FIM DO TRECHO\n(Km)": 144.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.26,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-186",
+      "TRECHO": "Entr.PB-160 - São Domingos do Cariri",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 22.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.54,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-186",
+      "TRECHO": "São Domingos do Cariri - Entr.PB-196/PB-200 (Caraúbas)",
+      "INÍCIO DO TRECHO\n(Km)": 22.54,
+      "FIM DO TRECHO\n(Km)": 35.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-194",
+      "TRECHO": "Entr. PB-196 (Caraúbas) - Distrito de Barreiras",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 15.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.5,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr.PB-160(Barra de São Miguel)-Entr.PB-200 (Caraúbas)",
+      "INÍCIO DO TRECHO\n(Km)": 32.32,
+      "FIM DO TRECHO\n(Km)": 56.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 23.74,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr. PB-200/PB-186 (Caraúbas) - Entr. PB-214 (A) (Congo)",
+      "INÍCIO DO TRECHO\n(Km)": 56.06,
+      "FIM DO TRECHO\n(Km)": 78.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.21,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr. PB-214 (A) (Congo) - Entr. PB-214 (B)",
+      "INÍCIO DO TRECHO\n(Km)": 78.27,
+      "FIM DO TRECHO\n(Km)": 84.59,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.32,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr. PB-214 (B) - Entr. PB-224 (Camalaú)",
+      "INÍCIO DO TRECHO\n(Km)": 84.59,
+      "FIM DO TRECHO\n(Km)": 101.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr. PB-196 (Camalaú) - Entr. BR-110/BR-412 (Monteiro)",
+      "INÍCIO DO TRECHO\n(Km)": 101.99,
+      "FIM DO TRECHO\n(Km)": 145.21,
+      "EXTENÇÃO DO TRECHO \n(Km)": 43.22,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-196",
+      "TRECHO": "Entr. BR-110/BR-412 (Monteiro) - Div.PB/PE",
+      "INÍCIO DO TRECHO\n(Km)": 145.21,
+      "FIM DO TRECHO\n(Km)": 160.92,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.71,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-198",
+      "TRECHO": "Entr. PB-176 (Gurjão) - Santo André",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 17.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.29,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-198",
+      "TRECHO": "Santo André - Entr. PB-238 (Taperoá)",
+      "INÍCIO DO TRECHO\n(Km)": 17.1,
+      "FIM DO TRECHO\n(Km)": 39.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.7,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-200",
+      "TRECHO": "Entr. BR-230(Juazeirinho) - Santo André",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 22.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.54,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-200",
+      "TRECHO": "Santo André - Parari",
+      "INÍCIO DO TRECHO\n(Km)": 22.54,
+      "FIM DO TRECHO\n(Km)": 35.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.33,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-200",
+      "TRECHO": "Parari - Entr. PB-148",
+      "INÍCIO DO TRECHO\n(Km)": 35.87,
+      "FIM DO TRECHO\n(Km)": 46.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.77,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-200",
+      "TRECHO": "Entr. PB-148 - Entr. BR-412 (Serra Branca)",
+      "INÍCIO DO TRECHO\n(Km)": 46.64,
+      "FIM DO TRECHO\n(Km)": 61.01,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.37,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-200",
+      "TRECHO": "Entr. BR-412 (Serra Branca) - Coxixola",
+      "INÍCIO DO TRECHO\n(Km)": 61.01,
+      "FIM DO TRECHO\n(Km)": 83.09,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.08,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-200",
+      "TRECHO": "Coxixola - Entr. PB-196 (Congo)",
+      "INÍCIO DO TRECHO\n(Km)": 83.09,
+      "FIM DO TRECHO\n(Km)": 104.25,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.16,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-202",
+      "TRECHO": "Entr.PB-148 (São João do Cariri) - Parari",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 20.38,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.38,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-202",
+      "TRECHO": "Parari - Entr.PB-210",
+      "INÍCIO DO TRECHO\n(Km)": 20.38,
+      "FIM DO TRECHO\n(Km)": 36.45,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.07,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-204",
+      "TRECHO": "Entr. PB-200 (Coxixola) - Entr. PB-196 (Caraúbas)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 18.76,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.76,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-210",
+      "TRECHO": "Entr.PB-238(Taperoá)-Entr.PB-148(S.José dos Cordeiros)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.98,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.98,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-210",
+      "TRECHO": "Entr.PB-148 (São José dos Cordeiros) - Entr. PB-248",
+      "INÍCIO DO TRECHO\n(Km)": 25.98,
+      "FIM DO TRECHO\n(Km)": 50.84,
+      "EXTENÇÃO DO TRECHO \n(Km)": 24.86,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-210",
+      "TRECHO": "Entr. PB-248  - Entr.BR-412 (Sumé)",
+      "INÍCIO DO TRECHO\n(Km)": 50.84,
+      "FIM DO TRECHO\n(Km)": 61.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.44,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-214",
+      "TRECHO": "Entr. BR-412 (Sumé) - Entr. PB-196 (A)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-214",
+      "TRECHO": "Entr. PB-196 (A) - Entr. PB-196 (B) (Congo)",
+      "INÍCIO DO TRECHO\n(Km)": 25.2,
+      "FIM DO TRECHO\n(Km)": 31.52,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-214",
+      "TRECHO": "Entr. PB-196 (B) (Congo) - Div.PB/PE",
+      "INÍCIO DO TRECHO\n(Km)": 31.52,
+      "FIM DO TRECHO\n(Km)": 48.66,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.14,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-222",
+      "TRECHO": "Sumé - Distrito de Sucuru (Serra Branca)",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": 11.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.1,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-224",
+      "TRECHO": "Entr. BR-412 - Entr. PB-196 (Camalaú)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.2,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-224",
+      "TRECHO": "Entr. PB-196(Camalaú) - Entr. PB-240(São João do Tigre)",
+      "INÍCIO DO TRECHO\n(Km)": 25.2,
+      "FIM DO TRECHO\n(Km)": 50.07,
+      "EXTENÇÃO DO TRECHO \n(Km)": 24.87,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-224",
+      "TRECHO": "Entr. PB-240 (São João do Tigre) - Santa Maria",
+      "INÍCIO DO TRECHO\n(Km)": 50.07,
+      "FIM DO TRECHO\n(Km)": 76.53,
+      "EXTENÇÃO DO TRECHO \n(Km)": 26.46,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-224",
+      "TRECHO": "Santa Maria - Divisa PB.PE",
+      "INÍCIO DO TRECHO\n(Km)": 76.53,
+      "FIM DO TRECHO\n(Km)": 86.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.37,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-226",
+      "TRECHO": "Entr. PB-238 - Entr. PB-216 (Livramento)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.41,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.41,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-240",
+      "TRECHO": "Divisa PE.PB - Cacimbinha - Entr.PB-224 (São João do Tigre)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 30.67,
+      "EXTENÇÃO DO TRECHO \n(Km)": 30.67,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-240",
+      "TRECHO": "Entr.PB-224 (São João do Tigre ) - Entr. PB-256",
+      "INÍCIO DO TRECHO\n(Km)": 30.67,
+      "FIM DO TRECHO\n(Km)": 49.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-240",
+      "TRECHO": "Entr. PB-256 - Entr. PB-264 (S.S.do Umbuzeiro)",
+      "INÍCIO DO TRECHO\n(Km)": 49.87,
+      "FIM DO TRECHO\n(Km)": 52.57,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.7,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-248",
+      "TRECHO": "Entr.PB-250 - Amparo",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.99,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-248",
+      "TRECHO": "Amparo - Entr.PB-210",
+      "INÍCIO DO TRECHO\n(Km)": 13.99,
+      "FIM DO TRECHO\n(Km)": 35.05,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.06,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-250",
+      "TRECHO": " Entr. BR-412 - Prata",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.25,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.25,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-250",
+      "TRECHO": " Prata - Ouro Velho",
+      "INÍCIO DO TRECHO\n(Km)": 13.25,
+      "FIM DO TRECHO\n(Km)": 26.89,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.64,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-250",
+      "TRECHO": " Ouro Velho - Entr.PB-248",
+      "INÍCIO DO TRECHO\n(Km)": 26.89,
+      "FIM DO TRECHO\n(Km)": 29.23,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.34,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-250",
+      "TRECHO": " Entr.PB-248 - Divisa PB.PE",
+      "INÍCIO DO TRECHO\n(Km)": 29.23,
+      "FIM DO TRECHO\n(Km)": 31.69,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.46,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-254",
+      "TRECHO": "Entr. PB-196 - Assentamento dos Dez - Entr. PB-256",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.11,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.11,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-256",
+      "TRECHO": "Entr. PB-264 - Entr.PB-254 (Mão Beijada)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.33,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.33,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-256",
+      "TRECHO": "Entr.PB-254 (Mão Beijada) - Entr. PB-240 (S. S. do Umbuzeiro)",
+      "INÍCIO DO TRECHO\n(Km)": 14.33,
+      "FIM DO TRECHO\n(Km)": 28.52,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.19,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-264",
+      "TRECHO": "BR-412 (Monteiro) - Zabelê",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 22.31,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.31,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-264",
+      "TRECHO": "Zabelê - Entr.PB-240 (São Sebastião do Umbuzeiro)",
+      "INÍCIO DO TRECHO\n(Km)": 22.31,
+      "FIM DO TRECHO\n(Km)": 35.56,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.25,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-264",
+      "TRECHO": "Entr. PB-240 (São S. do Umbuzeiro) - Div.PB/PE",
+      "INÍCIO DO TRECHO\n(Km)": 35.56,
+      "FIM DO TRECHO\n(Km)": 54.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.9,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-412 - Aeroporto de Monteiro",
+      "INÍCIO DO TRECHO\n(Km)": "Monteiro",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 44.88,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 103.72,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 867.94,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de Patos": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-221",
+      "TRECHO": "Entr. BR-230 (Santa Luzia) - São José do Sabugi",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 16.66,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.66,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-221",
+      "TRECHO": "São José do Sabugi - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 16.66,
+      "FIM DO TRECHO\n(Km)": 19.68,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.02,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Entr. PB-238 (Assunção) - Salgadinho",
+      "INÍCIO DO TRECHO\n(Km)": 8.26,
+      "FIM DO TRECHO\n(Km)": 23.53,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Salgadinho - Areia de Baraúna",
+      "INÍCIO DO TRECHO\n(Km)": 23.53,
+      "FIM DO TRECHO\n(Km)": 36.59,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Areia de Baraúna - Entr. Acesso a Passagem",
+      "INÍCIO DO TRECHO\n(Km)": 36.59,
+      "FIM DO TRECHO\n(Km)": 49.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Entr. Acesso a Passagem - Entr. PB-252",
+      "INÍCIO DO TRECHO\n(Km)": 49.99,
+      "FIM DO TRECHO\n(Km)": 64.63,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.64,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Entr. PB-252 - Quixaba",
+      "INÍCIO DO TRECHO\n(Km)": 64.63,
+      "FIM DO TRECHO\n(Km)": 70.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.67,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-228",
+      "TRECHO": "Quixaba - Entr. BR-230",
+      "INÍCIO DO TRECHO\n(Km)": 70.3,
+      "FIM DO TRECHO\n(Km)": 78.91,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.61,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-233",
+      "TRECHO": "Entr. BR-230 (Santa Luzia) - Várzea",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.96,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.96,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-233",
+      "TRECHO": "Várzea - Div.PB/RN(para Caicó)",
+      "INÍCIO DO TRECHO\n(Km)": 13.96,
+      "FIM DO TRECHO\n(Km)": 20.83,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.87,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-238",
+      "TRECHO": "Entr. PB-228 (Assunção) - Entr. PB-210 (Taperoá)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 19.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.99,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-238",
+      "TRECHO": "Entr. PB-210 (Taperoá) - Entr. PB-226",
+      "INÍCIO DO TRECHO\n(Km)": 19.99,
+      "FIM DO TRECHO\n(Km)": 38.83,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.84,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-238",
+      "TRECHO": "Entr. PB-226 - Entr.PB-246 (Desterro)",
+      "INÍCIO DO TRECHO\n(Km)": 38.83,
+      "FIM DO TRECHO\n(Km)": 52.14,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.31,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-238",
+      "TRECHO": "Desterro - Entr. PB-262",
+      "INÍCIO DO TRECHO\n(Km)": 52.14,
+      "FIM DO TRECHO\n(Km)": 72.97,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.83,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-246",
+      "TRECHO": "Entr. PB-228 (Passagem) - Cacimbas",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.3,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-246",
+      "TRECHO": "Cacimbas - Entr.PB-238(Desterro) ",
+      "INÍCIO DO TRECHO\n(Km)": 12.3,
+      "FIM DO TRECHO\n(Km)": 24.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-246",
+      "TRECHO": "Entr.PB-238(Desterro) - Divisa PB.PE - ",
+      "INÍCIO DO TRECHO\n(Km)": 24.8,
+      "FIM DO TRECHO\n(Km)": 34.72,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.92,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-251",
+      "TRECHO": "Entr.BR-230 - São Mamede",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 1.23,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.23,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-251",
+      "TRECHO": "São Mamede - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 1.23,
+      "FIM DO TRECHO\n(Km)": 18.74,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.51,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-252",
+      "TRECHO": "Entr. PB-228 - Cacimba de Areia",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-262",
+      "TRECHO": " Divisa PB.PE - Entr. PB-306",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 2.63,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.63,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-262",
+      "TRECHO": " Entr. PB-306 - Entr. PB-238 ",
+      "INÍCIO DO TRECHO\n(Km)": 2.63,
+      "FIM DO TRECHO\n(Km)": 4.84,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.21,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-262",
+      "TRECHO": " Entr. PB-238 - Teixeira  ",
+      "INÍCIO DO TRECHO\n(Km)": 4.84,
+      "FIM DO TRECHO\n(Km)": 6.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.76,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-262",
+      "TRECHO": " Teixeira - Entr. PB-276 (S. José do Bonfim)",
+      "INÍCIO DO TRECHO\n(Km)": 6.6,
+      "FIM DO TRECHO\n(Km)": 19.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-262",
+      "TRECHO": " Entr. PB-276 (S. José do Bonfim) - Entr. BR-361 (Patos)",
+      "INÍCIO DO TRECHO\n(Km)": 19.4,
+      "FIM DO TRECHO\n(Km)": 35.92,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.52,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-275",
+      "TRECHO": "Entr. BR-230 (Patos) - São José de Espinharas",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 22.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.54,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-275",
+      "TRECHO": "São José de Espinharas - Entr. BR-110",
+      "INÍCIO DO TRECHO\n(Km)": 22.54,
+      "FIM DO TRECHO\n(Km)": 34.04,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-276",
+      "TRECHO": "Entr. PB-262 (São José do Bonfim) - Mãe d'Água",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 20.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.64,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Entr. BR-230 (Malta) - Vista Serrana",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 21.28,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.28,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Vista Serrana - Entr. BR-427(A)",
+      "INÍCIO DO TRECHO\n(Km)": 21.28,
+      "FIM DO TRECHO\n(Km)": 30.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.36,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Entr. BR-427(A) - Entr.BR-427(B)",
+      "INÍCIO DO TRECHO\n(Km)": 30.64,
+      "FIM DO TRECHO\n(Km)": 32.46,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Entr. BR-427(B) - Paulista",
+      "INÍCIO DO TRECHO\n(Km)": 32.46,
+      "FIM DO TRECHO\n(Km)": 42.47,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.01,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Paulista - Entr. São Bento",
+      "INÍCIO DO TRECHO\n(Km)": 42.47,
+      "FIM DO TRECHO\n(Km)": 65.35,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.88,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "São Bento - Entr. PB-323(A)",
+      "INÍCIO DO TRECHO\n(Km)": 65.35,
+      "FIM DO TRECHO\n(Km)": 80.98,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.63,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Entr. PB-323(A) - Entr. PB-323(B)(Brejo do Cruz)",
+      "INÍCIO DO TRECHO\n(Km)": 80.98,
+      "FIM DO TRECHO\n(Km)": 84.57,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.59,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "PB-323(B)(Brejo do Cruz) - Belém do Brejo do Cruz",
+      "INÍCIO DO TRECHO\n(Km)": 84.57,
+      "FIM DO TRECHO\n(Km)": 103.53,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.96,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-293",
+      "TRECHO": "Belém do Brejo do Cruz - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 103.53,
+      "FIM DO TRECHO\n(Km)": 108.91,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.38,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Entr. PB-262 - Maturéia",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.41,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.41,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Maturéia - Entr. acesso a Santa Terezinha (PE)",
+      "INÍCIO DO TRECHO\n(Km)": 10.41,
+      "FIM DO TRECHO\n(Km)": 31.68,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Entr. acesso a Santa Terezinha (PE) - Imaculada",
+      "INÍCIO DO TRECHO\n(Km)": 31.68,
+      "FIM DO TRECHO\n(Km)": 37.17,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.49,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Imaculada - Água Branca",
+      "INÍCIO DO TRECHO\n(Km)": 37.17,
+      "FIM DO TRECHO\n(Km)": 57.38,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.21,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Água Branca - Juru",
+      "INÍCIO DO TRECHO\n(Km)": 57.38,
+      "FIM DO TRECHO\n(Km)": 78.88,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Juru - Entr. PB-356 (Tavares)",
+      "INÍCIO DO TRECHO\n(Km)": 78.88,
+      "FIM DO TRECHO\n(Km)": 92.92,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.04,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-312",
+      "TRECHO": "Entr. BR-361 - Emas",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.63,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.63,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-313",
+      "TRECHO": "Entr.PB-293/323 (Brejo do Cruz) - São José do Brejo do Cruz",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.48,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.48,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-313",
+      "TRECHO": "São José do Brejo do Cruz - Divisa PB.RN",
+      "INÍCIO DO TRECHO\n(Km)": 25.48,
+      "FIM DO TRECHO\n(Km)": 42.18,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.7,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-317",
+      "TRECHO": "Entr. PB-325 - Riacho dos Cavalos",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 9.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-317",
+      "TRECHO": "Riacho dos Cavalos - Entr. PB-293 (São Bento)",
+      "INÍCIO DO TRECHO\n(Km)": 9.06,
+      "FIM DO TRECHO\n(Km)": 39.53,
+      "EXTENÇÃO DO TRECHO \n(Km)": 30.47,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-317",
+      "TRECHO": "Entr. PB-293 (São Bento) - Barra de Cima - Divisa PB.RN",
+      "INÍCIO DO TRECHO\n(Km)": 39.53,
+      "FIM DO TRECHO\n(Km)": 47.55,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.02,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "Divisa RN/PB - Entr. PB-293(A)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 9.89,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.89,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "Entr.PB-293(A) - Entr. PB-293(B)(Brejo do Cruz)",
+      "INÍCIO DO TRECHO\n(Km)": 9.89,
+      "FIM DO TRECHO\n(Km)": 13.48,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "Entr. PB-293(B)(Brejo do Cruz) - Entr.PB-325(B) (C. do Rocha)",
+      "INÍCIO DO TRECHO\n(Km)": 13.48,
+      "FIM DO TRECHO\n(Km)": 40.93,
+      "EXTENÇÃO DO TRECHO \n(Km)": 27.45,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-327",
+      "TRECHO": "Entr. PB-325 (Acesso a Jericó) - Mato Grosso",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.75,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.75,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-338",
+      "TRECHO": "Pombal - São Domingos de Pombal",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 20.89,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.89,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-338",
+      "TRECHO": "São Domingos de Pombal - Entr. BR-230 (Pombal)",
+      "INÍCIO DO TRECHO\n(Km)": 20.89,
+      "FIM DO TRECHO\n(Km)": 31.11,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.22,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. BR-230 (São Bentinho) - Cajazeirinhas",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.7,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.7,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Cajazeirinhas - Entr. PB-342 (Coremas)",
+      "INÍCIO DO TRECHO\n(Km)": 12.7,
+      "FIM DO TRECHO\n(Km)": 34.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 21.57,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-230 - Aeroporto de Patos",
+      "INÍCIO DO TRECHO\n(Km)": "Patos",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-228 - Passagem",
+      "INÍCIO DO TRECHO\n(Km)": "A 12,0 km de Areia de Baraúna",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-233 - Divisa PB.RN (para Ouro Branco)",
+      "INÍCIO DO TRECHO\n(Km)": "Várzea",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-293 (São Bento) - Riachão",
+      "INÍCIO DO TRECHO\n(Km)": "São Bento",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.7,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-306 - Divisa PB.PE (para Sta Terezinha)",
+      "INÍCIO DO TRECHO\n(Km)": "A 5,0 km de Imaculada",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.7,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-306 - Divisa PB.PE (para Flôres)",
+      "INÍCIO DO TRECHO\n(Km)": "Princesa Isabel",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-306 - Divisa PB.PE (para Tabira)",
+      "INÍCIO DO TRECHO\n(Km)": "A 1,4 km de Água Branca",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-238 (Desterro) - São Sebastião",
+      "INÍCIO DO TRECHO\n(Km)": "Cacimbas",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.5,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-230 - Divisa PB.RN (para Equador)",
+      "INÍCIO DO TRECHO\n(Km)": "A 2,5 km de Junco do Seridó",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 52.69,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 769.0,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de Itaporanga": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-302",
+      "TRECHO": "Entr. BR-361 - Olho D'Água",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 2.15,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.15,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-302",
+      "TRECHO": "Olho D'Água - Entr. PB-306 (Imaculada)",
+      "INÍCIO DO TRECHO\n(Km)": 2.15,
+      "FIM DO TRECHO\n(Km)": 47.53,
+      "EXTENÇÃO DO TRECHO \n(Km)": 45.38,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Tavares - Princesa Isabel",
+      "INÍCIO DO TRECHO\n(Km)": 92.91999999999999,
+      "FIM DO TRECHO\n(Km)": 111.82,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.9,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Princesa Isabel - São José de Princesa",
+      "INÍCIO DO TRECHO\n(Km)": 111.82,
+      "FIM DO TRECHO\n(Km)": 126.61999999999999,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "São José de Princesa - Entr. PB-378 (Manaíra)",
+      "INÍCIO DO TRECHO\n(Km)": 126.61999999999999,
+      "FIM DO TRECHO\n(Km)": 135.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.58,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Entr. PB-378 (Manaíra) - Entr. PB-370",
+      "INÍCIO DO TRECHO\n(Km)": 135.2,
+      "FIM DO TRECHO\n(Km)": 157.42,
+      "EXTENÇÃO DO TRECHO \n(Km)": 22.22,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Entr. PB-370 - Santana de Mangueira",
+      "INÍCIO DO TRECHO\n(Km)": 157.42,
+      "FIM DO TRECHO\n(Km)": 170.08999999999997,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.67,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-306",
+      "TRECHO": "Santana de Mangueira - Entr. PB-386",
+      "INÍCIO DO TRECHO\n(Km)": 170.08999999999997,
+      "FIM DO TRECHO\n(Km)": 181.08999999999997,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-320",
+      "TRECHO": "Entr. BR-361 (Olho D'Água) - Entr. PB-306 (Juru)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 58.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 58.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-342",
+      "TRECHO": "Entr. PB-366 (Coremas) - Entr. BR-361",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 27.17,
+      "EXTENÇÃO DO TRECHO \n(Km)": 27.17,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-354",
+      "TRECHO": "Entr. PB-356(A) - Entr. PB-356(B)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 3.27,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.27,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-354",
+      "TRECHO": "Entr. PB-356(B) - Nova Olinda",
+      "INÍCIO DO TRECHO\n(Km)": 3.27,
+      "FIM DO TRECHO\n(Km)": 7.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.03,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-356",
+      "TRECHO": "Entr. PB-386 -  Pedra Branca",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-356",
+      "TRECHO": "Pedra Branca - Entr. PB-354(A)",
+      "INÍCIO DO TRECHO\n(Km)": 14.3,
+      "FIM DO TRECHO\n(Km)": 23.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-356",
+      "TRECHO": "Entr. PB-354(A) - Entr. PB-354(B)",
+      "INÍCIO DO TRECHO\n(Km)": 23.8,
+      "FIM DO TRECHO\n(Km)": 27.14,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-356",
+      "TRECHO": "Entr.PB-354(B) - Tavares",
+      "INÍCIO DO TRECHO\n(Km)": 27.14,
+      "FIM DO TRECHO\n(Km)": 65.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 38.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-364",
+      "TRECHO": "Entr. BR-361 - Entr. PB-368",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 15.35,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.35,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-364",
+      "TRECHO": "Entr. PB-368 - Entr. PB-366 (Aguiar)",
+      "INÍCIO DO TRECHO\n(Km)": 15.35,
+      "FIM DO TRECHO\n(Km)": 26.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.75,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. PB-348 - Entr. PB-364 (Aguiar)",
+      "INÍCIO DO TRECHO\n(Km)": 48.12,
+      "FIM DO TRECHO\n(Km)": 67.25,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.1,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. PB-364 (Aguiar) - Catolé",
+      "INÍCIO DO TRECHO\n(Km)": 67.25,
+      "FIM DO TRECHO\n(Km)": 85.52,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.27,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Catolé - Entr. PB-384",
+      "INÍCIO DO TRECHO\n(Km)": 85.52,
+      "FIM DO TRECHO\n(Km)": 103.82,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.3,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. PB-384 - Entr. PB-382",
+      "INÍCIO DO TRECHO\n(Km)": 103.82,
+      "FIM DO TRECHO\n(Km)": 107.82,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. PB-382 - Entr. PB-400(B)",
+      "INÍCIO DO TRECHO\n(Km)": 107.82,
+      "FIM DO TRECHO\n(Km)": 113.92,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr.PB-400(B) - São José de Piranhas",
+      "INÍCIO DO TRECHO\n(Km)": 113.92,
+      "FIM DO TRECHO\n(Km)": 114.86,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.94,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-368",
+      "TRECHO": "Entr. PB-364 - Igaracy",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 3.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-368",
+      "TRECHO": "Igaracy  - Entr. PB-382",
+      "INÍCIO DO TRECHO\n(Km)": 3.3,
+      "FIM DO TRECHO\n(Km)": 17.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.1,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-370",
+      "TRECHO": "Entr. PB-386 - Curral Velho",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 15.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-370",
+      "TRECHO": "Curral Velho - Entr. PB-306",
+      "INÍCIO DO TRECHO\n(Km)": 15.2,
+      "FIM DO TRECHO\n(Km)": 23.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.4,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-372",
+      "TRECHO": "Entr. PB-386 (Itaporanga) - Entr. PB-382",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-372",
+      "TRECHO": "Entr. PB-382 - Entr. PB-376",
+      "INÍCIO DO TRECHO\n(Km)": 4.54,
+      "FIM DO TRECHO\n(Km)": 11.34,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.0,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-372",
+      "TRECHO": "Entr. PB-376 - Entr. PB-392",
+      "INÍCIO DO TRECHO\n(Km)": 11.34,
+      "FIM DO TRECHO\n(Km)": 19.74,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.4,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "PB-372",
+      "TRECHO": "Entr. PB-392 - Entr. PB-386 (Ibiara)",
+      "INÍCIO DO TRECHO\n(Km)": 19.74,
+      "FIM DO TRECHO\n(Km)": 38.24,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.5,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-376",
+      "TRECHO": "Entr. PB-372 - Fazenda Veludo",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.9,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-376",
+      "TRECHO": "Fazenda Veludo - Entr. PB-386",
+      "INÍCIO DO TRECHO\n(Km)": 6.9,
+      "FIM DO TRECHO\n(Km)": 12.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.4,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-378",
+      "TRECHO": "Entr. PB-306 (Manaíra) - Div.PB/PE",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 11.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-382",
+      "TRECHO": "Entr. PB-366 - Serra Grande",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 25.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 25.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-382",
+      "TRECHO": "Serra Grande -São José de Caiana",
+      "INÍCIO DO TRECHO\n(Km)": 25.3,
+      "FIM DO TRECHO\n(Km)": 38.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.7,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-382",
+      "TRECHO": "São José de Caiana - Entr. PB-368",
+      "INÍCIO DO TRECHO\n(Km)": 38,
+      "FIM DO TRECHO\n(Km)": 50.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-382",
+      "TRECHO": "Entr. PB-368 - Entr. PB-372",
+      "INÍCIO DO TRECHO\n(Km)": 50.2,
+      "FIM DO TRECHO\n(Km)": 55.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Entr. PB-372 (Itaporanga) - Entr. PB-356(p/Pedra Branca)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 4.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Entr. PB-356(p/Pedra Branca) - Entr.PB-376(p/Faz. Veludo)",
+      "INÍCIO DO TRECHO\n(Km)": 4.2,
+      "FIM DO TRECHO\n(Km)": 13.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.9,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Entr.PB-376(p/Faz. Veludo) - Boa Ventura",
+      "INÍCIO DO TRECHO\n(Km)": 13.1,
+      "FIM DO TRECHO\n(Km)": 18.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Boa Ventura - Entr. PB-370(p/Curral Velho)",
+      "INÍCIO DO TRECHO\n(Km)": 18.1,
+      "FIM DO TRECHO\n(Km)": 22.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Entr. PB-370(p/Curral Velho) - Diamante",
+      "INÍCIO DO TRECHO\n(Km)": 22.3,
+      "FIM DO TRECHO\n(Km)": 24.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Diamante - Entr. PB-306(p/Santana de Mangueira)",
+      "INÍCIO DO TRECHO\n(Km)": 24.4,
+      "FIM DO TRECHO\n(Km)": 36.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Entr.PB-306(p/Sant. de Mangueira) - Entr. PB-372 (Ibiara)",
+      "INÍCIO DO TRECHO\n(Km)": 36.4,
+      "FIM DO TRECHO\n(Km)": 43.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.5,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "Entr. PB-372 (Ibiara) - Entr. PB-400 (Conceição)",
+      "INÍCIO DO TRECHO\n(Km)": 43.9,
+      "FIM DO TRECHO\n(Km)": 57.5,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-386",
+      "TRECHO": "PB-400 (Conceição) - Div.PB/CE",
+      "INÍCIO DO TRECHO\n(Km)": 57.5,
+      "FIM DO TRECHO\n(Km)": 74.6,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.1,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-388",
+      "TRECHO": "São José de Caiana - Entr. PB-392 (Comunidade Deserto)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.99,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-392",
+      "TRECHO": "Entr. PB-372 - Entr. PB-388 (Deserto)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 17.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-392",
+      "TRECHO": "Entr. PB-388 (Deserto) - Entr. PB-400 (Bonito de Santa Fé)",
+      "INÍCIO DO TRECHO\n(Km)": 17,
+      "FIM DO TRECHO\n(Km)": 33.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.4,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-392",
+      "TRECHO": "Entr. PB-400 (Bonito de Santa Fé)- Div PB/CE",
+      "INÍCIO DO TRECHO\n(Km)": 33.4,
+      "FIM DO TRECHO\n(Km)": 37.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Bonito de Santa Fé - Entr.PB-386(Conceição)",
+      "INÍCIO DO TRECHO\n(Km)": 63.8,
+      "FIM DO TRECHO\n(Km)": 101.54,
+      "EXTENÇÃO DO TRECHO \n(Km)": 38.4,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Entr. PB-386 (Conceição) - Santa Inês",
+      "INÍCIO DO TRECHO\n(Km)": 101.54,
+      "FIM DO TRECHO\n(Km)": 113.14,
+      "EXTENÇÃO DO TRECHO \n(Km)": 11.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Santa Inês - Divisa PB.PE",
+      "INÍCIO DO TRECHO\n(Km)": 113.14,
+      "FIM DO TRECHO\n(Km)": 123.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.23,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.BR-361 - Aeroporto de Itaporanga",
+      "INÍCIO DO TRECHO\n(Km)": "Itaporanga",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.8,
+      "SITUAÇÃO FÍSICA": "Impl."
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr BR-361 - Cristo Redentor de Itaporanga",
+      "INÍCIO DO TRECHO\n(Km)": "Itaporanga",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-306 - Lagoa da Cruz (Quixaba/PE)",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Princesa isabel - Divisa PB/PE (para Flôres)",
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-400 - Montevideo",
+      "INÍCIO DO TRECHO\n(Km)": "A 10,0 km de Bonito de Sta Fé",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.0,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 30.5,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 53.97,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 741.1,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ],
+  "Residência de Cajazeiras": [
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "Entr. PB-325(B)(Catolé do Rocha) - PB-325(A)(C. do Rocha)",
+      "INÍCIO DO TRECHO\n(Km)": 40.93,
+      "FIM DO TRECHO\n(Km)": 44.73,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "PB-325(A)(Catolé do Rocha) - Brejo dos Santos",
+      "INÍCIO DO TRECHO\n(Km)": 44.73,
+      "FIM DO TRECHO\n(Km)": 51.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.14,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "Brejo dos Santos - Entr. PB-337 (Bom Sucesso)",
+      "INÍCIO DO TRECHO\n(Km)": 51.87,
+      "FIM DO TRECHO\n(Km)": 67.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.23,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-323",
+      "TRECHO": "Entr. PB-337 (Bom Sucesso) - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 67.1,
+      "FIM DO TRECHO\n(Km)": 74.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.96,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr. BR-230 - Entr. PB-337",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.07,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.07,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr. PB-337 - Entr. Acesso a Jericó",
+      "INÍCIO DO TRECHO\n(Km)": 13.07,
+      "FIM DO TRECHO\n(Km)": 19.11,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.04,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr. Acesso a Jericó - Entr. PB-327(p/Mato Grosso)",
+      "INÍCIO DO TRECHO\n(Km)": 19.11,
+      "FIM DO TRECHO\n(Km)": 19.74,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.63,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr. PB-327(p/Mato Grosso) - Entr. PB-317(p/R.dos Cavalos)",
+      "INÍCIO DO TRECHO\n(Km)": 19.74,
+      "FIM DO TRECHO\n(Km)": 35.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.63,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr. PB-317(p/R.dos Cavalos) - Entr.PB-323(A)",
+      "INÍCIO DO TRECHO\n(Km)": 35.37,
+      "FIM DO TRECHO\n(Km)": 53.37,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr.PB-323(A)(Catolé do Rocha) - Entr.PB-323(B)(C.do Rocha)",
+      "INÍCIO DO TRECHO\n(Km)": 53.37,
+      "FIM DO TRECHO\n(Km)": 57.2,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-325",
+      "TRECHO": "Entr. PB-323(B)(Catolé do Rocha) - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 57.2,
+      "FIM DO TRECHO\n(Km)": 75.77,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.57,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-331",
+      "TRECHO": "Entr. PB-323 - Catolé do Rocha - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-337",
+      "TRECHO": "Entr. PB-325 - Lagoa",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 13.3,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-337",
+      "TRECHO": "Lagoa - Entr. PB-323 (Bonsucesso)",
+      "INÍCIO DO TRECHO\n(Km)": 13.3,
+      "FIM DO TRECHO\n(Km)": 32.64,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.34,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-348",
+      "TRECHO": "Entr. PB-366 - São José da Lagoa Tapada",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.89,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.89,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-348",
+      "TRECHO": "S. J. da Lagoa Tapada - Entr. PB-384 (São Gonçalo)",
+      "INÍCIO DO TRECHO\n(Km)": 14.89,
+      "FIM DO TRECHO\n(Km)": 39.49,
+      "EXTENÇÃO DO TRECHO \n(Km)": 24.6,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-348",
+      "TRECHO": "Entr. PB-384 (São Gonçalo) - Entr. BR-230",
+      "INÍCIO DO TRECHO\n(Km)": 39.49,
+      "FIM DO TRECHO\n(Km)": 43.18,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.69,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-359",
+      "TRECHO": "Entr. BR-230 (Aparecida) - São Francisco",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 19.79,
+      "EXTENÇÃO DO TRECHO \n(Km)": 19.79,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-359",
+      "TRECHO": "São Francisco - Entr. Acesso  a São Pedro",
+      "INÍCIO DO TRECHO\n(Km)": 19.79,
+      "FIM DO TRECHO\n(Km)": 23.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.11,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-359",
+      "TRECHO": "Entr. Acesso  a São Pedro - Santa Cruz",
+      "INÍCIO DO TRECHO\n(Km)": 23.9,
+      "FIM DO TRECHO\n(Km)": 33.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.12,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-359",
+      "TRECHO": "Santa Cruz - Div.PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 33.02,
+      "FIM DO TRECHO\n(Km)": 42.05,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.03,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. PB-342 (Coremas) - Entr. PB-348",
+      "INÍCIO DO TRECHO\n(Km)": 34.27,
+      "FIM DO TRECHO\n(Km)": 48.12,
+      "EXTENÇÃO DO TRECHO \n(Km)": 13.85,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "São José de Piranhas - Entr.PB-400(A)",
+      "INÍCIO DO TRECHO\n(Km)": 114.88,
+      "FIM DO TRECHO\n(Km)": 116.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.99,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Entr. PB-400(A) - Boa Vista",
+      "INÍCIO DO TRECHO\n(Km)": 116.87,
+      "FIM DO TRECHO\n(Km)": 126.94,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.07,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-366",
+      "TRECHO": "Boa Vista - Divisa PB/CE",
+      "INÍCIO DO TRECHO\n(Km)": 126.94,
+      "FIM DO TRECHO\n(Km)": 135.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.16,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-380",
+      "TRECHO": "Entr. PB-348 (São Gonçalo) - Entr.BR-230 (Sousa)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.26,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.26,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-383",
+      "TRECHO": "Entr. PB-391 - Entr. PB-387",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 12.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.9,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-383",
+      "TRECHO": "Entr. PB-387 - Lastro",
+      "INÍCIO DO TRECHO\n(Km)": 12.9,
+      "FIM DO TRECHO\n(Km)": 27.96,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-383",
+      "TRECHO": "Lastro - Divisa PB/RN",
+      "INÍCIO DO TRECHO\n(Km)": 27.96,
+      "FIM DO TRECHO\n(Km)": 29.83,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.87,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-384",
+      "TRECHO": "Entr. PB366 - Carrapateira",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 15.19,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.19,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-384",
+      "TRECHO": "Carrapateira - Entr. PB-394 (Nazarezinho)",
+      "INÍCIO DO TRECHO\n(Km)": 15.19,
+      "FIM DO TRECHO\n(Km)": 34.0,
+      "EXTENÇÃO DO TRECHO \n(Km)": 18.81,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-384",
+      "TRECHO": "Nazarezinho - Entr. PB-348 (São Gonçalo)",
+      "INÍCIO DO TRECHO\n(Km)": 34,
+      "FIM DO TRECHO\n(Km)": 42.12,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.12,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-387",
+      "TRECHO": "Entr. PB-383 - Vieirópolis",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.34,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.34,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-387",
+      "TRECHO": "Vieirópolis - Entr. PB-391",
+      "INÍCIO DO TRECHO\n(Km)": 10.34,
+      "FIM DO TRECHO\n(Km)": 26.47,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.13,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-390",
+      "TRECHO": "Entr. BR-230 - Entr. PB-394 (Gravatá) - Entr. PB-394",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.1,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.1,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-391",
+      "TRECHO": "Sousa - Entr. PB-383(p/Lastro)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.16,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.16,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-391",
+      "TRECHO": "Entr. PB-383 - Entr. PB-387(Uiraúna)",
+      "INÍCIO DO TRECHO\n(Km)": 8.16,
+      "FIM DO TRECHO\n(Km)": 40.49,
+      "EXTENÇÃO DO TRECHO \n(Km)": 32.33,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-393",
+      "TRECHO": "Entr.BR-230(Cajazeiras) - Entr.BR-405(S.J. do Rio do Peixe)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 23.38,
+      "EXTENÇÃO DO TRECHO \n(Km)": 23.38,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-393",
+      "TRECHO": "Entr.BR-405 (S.J. do Rio do Peixe) - Entr. PB-395",
+      "INÍCIO DO TRECHO\n(Km)": 23.38,
+      "FIM DO TRECHO\n(Km)": 30.24,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.86,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-393",
+      "TRECHO": "Entr. PB-395 - Entr. Acesso a Brejo das Freiras",
+      "INÍCIO DO TRECHO\n(Km)": 30.24,
+      "FIM DO TRECHO\n(Km)": 31.36,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.12,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-393",
+      "TRECHO": "Entr. Acesso a Brejo das Freiras - Poço Zé de Moura",
+      "INÍCIO DO TRECHO\n(Km)": 31.36,
+      "FIM DO TRECHO\n(Km)": 43.49,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.13,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-394",
+      "TRECHO": "Entr. BR-230  - Engº Avidos",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 14.15,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.15,
+      "SITUAÇÃO FÍSICA": "E.O.P"
+    },
+    {
+      "RODOVIA": "PB-394",
+      "TRECHO": "Engº Avidos - Entr.PB-384 (Nazarezinho)",
+      "INÍCIO DO TRECHO\n(Km)": 14.15,
+      "FIM DO TRECHO\n(Km)": 30.88,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.73,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-395",
+      "TRECHO": "Entr.PB-393 - Entr. PB-411",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.44,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.44,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-395",
+      "TRECHO": "Entr. PB-411 - Santa Helena",
+      "INÍCIO DO TRECHO\n(Km)": 5.44,
+      "FIM DO TRECHO\n(Km)": 17.95,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.51,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-395",
+      "TRECHO": "Santa Helena - Divisa PB/CE",
+      "INÍCIO DO TRECHO\n(Km)": 17.95,
+      "FIM DO TRECHO\n(Km)": 20.95,
+      "EXTENÇÃO DO TRECHO \n(Km)": 3.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Entr.BR-230(Cajazeiras)-Entr.PB-366(A)(p/Boa Vista)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 29.02,
+      "EXTENÇÃO DO TRECHO \n(Km)": 29.02,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Entr.PB-366(A)(p/Boa Vista) - São José de Piranhas",
+      "INÍCIO DO TRECHO\n(Km)": 29.02,
+      "FIM DO TRECHO\n(Km)": 31.01,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "São José de Piranhas - Entr.PB-366(B)(p/Aguiar)",
+      "INÍCIO DO TRECHO\n(Km)": 31.01,
+      "FIM DO TRECHO\n(Km)": 31.95,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Entr. PB-366(B)(p/Aguiar) - Monte Horebe",
+      "INÍCIO DO TRECHO\n(Km)": 31.95,
+      "FIM DO TRECHO\n(Km)": 47.06,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.11,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-400",
+      "TRECHO": "Monte Horebe - Bonito de Santa Fé",
+      "INÍCIO DO TRECHO\n(Km)": 47.06,
+      "FIM DO TRECHO\n(Km)": 63.12,
+      "EXTENÇÃO DO TRECHO \n(Km)": 16.06,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-411",
+      "TRECHO": "Entr. BR-434 (Fazenda Nova) - Bernardino Batista",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 7.97,
+      "EXTENÇÃO DO TRECHO \n(Km)": 7.97,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-411",
+      "TRECHO": "Bernardino Batista - Triunfo",
+      "INÍCIO DO TRECHO\n(Km)": 7.97,
+      "FIM DO TRECHO\n(Km)": 28.61,
+      "EXTENÇÃO DO TRECHO \n(Km)": 20.64,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-411",
+      "TRECHO": "Triunfo - Entr. PB-395",
+      "INÍCIO DO TRECHO\n(Km)": 28.61,
+      "FIM DO TRECHO\n(Km)": 45.87,
+      "EXTENÇÃO DO TRECHO \n(Km)": 17.26,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-411",
+      "TRECHO": "Entr. PB-395 - Lagoa do Arroz",
+      "INÍCIO DO TRECHO\n(Km)": 45.87,
+      "FIM DO TRECHO\n(Km)": 61.33,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.46,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-411",
+      "TRECHO": "Lagoa do Arroz - Entr. PB-393 (Cajazeiras)",
+      "INÍCIO DO TRECHO\n(Km)": 61.33,
+      "FIM DO TRECHO\n(Km)": 75.99,
+      "EXTENÇÃO DO TRECHO \n(Km)": 14.66,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-416",
+      "TRECHO": "Entr. PB-400 - Entr. PB-418 (Sítio Tambor)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 10.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 10.9,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-416",
+      "TRECHO": "Entr. PB-418 (Sítio Tambor) - Entr. BR-116",
+      "INÍCIO DO TRECHO\n(Km)": 10.9,
+      "FIM DO TRECHO\n(Km)": 20.8,
+      "EXTENÇÃO DO TRECHO \n(Km)": 9.9,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-417",
+      "TRECHO": "Entr. BR-230 - Bom Jesus",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 5.82,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.82,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-417",
+      "TRECHO": "Bom Jesus - Entr. PB-411 (Lagoa do Arroz)",
+      "INÍCIO DO TRECHO\n(Km)": 5.82,
+      "FIM DO TRECHO\n(Km)": 17.92,
+      "EXTENÇÃO DO TRECHO \n(Km)": 12.1,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-418",
+      "TRECHO": "Entr. PB-420 (Cachoeira dos Índios) - Entr. PB-416 (Tambor)",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 8.9,
+      "EXTENÇÃO DO TRECHO \n(Km)": 8.9,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": "PB-418",
+      "TRECHO": "Entr. PB-416 (Tambor) - Entr. BR-116",
+      "INÍCIO DO TRECHO\n(Km)": 8.9,
+      "FIM DO TRECHO\n(Km)": 24.4,
+      "EXTENÇÃO DO TRECHO \n(Km)": 15.5,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "PB-420",
+      "TRECHO": "Entr. BR-230 - Cachoeira dos Índios",
+      "INÍCIO DO TRECHO\n(Km)": 0,
+      "FIM DO TRECHO\n(Km)": 6.81,
+      "EXTENÇÃO DO TRECHO \n(Km)": 6.81,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "PB-420",
+      "TRECHO": "Cachoeira dos Índios - Entr. BR-116",
+      "INÍCIO DO TRECHO\n(Km)": 6.81,
+      "FIM DO TRECHO\n(Km)": 12.39,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.58,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "RELAÇÃO DE ACESSOS (Trechos com menos de 5,0 km de extensão)",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-395/393 - Brejo das Freiras",
+      "INÍCIO DO TRECHO\n(Km)": "A 9,0 km de S.J.do Rio do Peixe",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-325 - Jericó",
+      "INÍCIO DO TRECHO\n(Km)": "A 6,0 km do Entr. c/a PB-337",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.0,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-359 - São Pedro",
+      "INÍCIO DO TRECHO\n(Km)": "A 3,8 km de São Francisco",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.3,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-323 - Catolé do Rocha",
+      "INÍCIO DO TRECHO\n(Km)": "Catolé do Rocha",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 2.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr.PB-325 - Catolé do Rocha",
+      "INÍCIO DO TRECHO\n(Km)": "Catolé do Rocha",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 4.8,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Acesso ao Campus da UEPB",
+      "INÍCIO DO TRECHO\n(Km)": "Catolé do Rocha",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 1.2,
+      "SITUAÇÃO FÍSICA": "Pavimentado"
+    },
+    {
+      "RODOVIA": "Acesso",
+      "TRECHO": "Entr. PB-400 (Sítio Contendas) - Serra do Vital",
+      "INÍCIO DO TRECHO\n(Km)": "A 19,5 km de Cajazeiras",
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 5.0,
+      "SITUAÇÃO FÍSICA": "Lenhoso"
+    },
+    {
+      "RODOVIA": NaN,
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": NaN,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Estrada em Obra de Pavimentação",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 76.53,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Pavimentada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Duplicada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Leito Natural",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Implantada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "Planejada",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 0.0,
+      "SITUAÇÃO FÍSICA": NaN
+    },
+    {
+      "RODOVIA": "E X T E N S Ã O   T O T A L",
+      "TRECHO": NaN,
+      "INÍCIO DO TRECHO\n(Km)": NaN,
+      "FIM DO TRECHO\n(Km)": NaN,
+      "EXTENÇÃO DO TRECHO \n(Km)": 749.79,
+      "SITUAÇÃO FÍSICA": NaN
+    }
+  ]
+}
