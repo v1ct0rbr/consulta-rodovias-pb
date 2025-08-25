@@ -3,7 +3,7 @@
 
   async function main() {
     try {
-      const res = await fetch('./rodovias.json', { cache: 'no-cache' });
+      const res = await fetch('./trechos_residencias.json', { cache: 'no-cache' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       DATA = await res.json();
       console.log(`Carregado ${DATA.length} registros de rodovias.`);
