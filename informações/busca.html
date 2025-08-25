@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistema de Busca - Rodovias PB</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f8fb;
+      color: #222;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #004080;
+    }
+    input {
+      padding: 8px;
+      font-size: 16px;
+      width: 300px;
+    }
+    button {
+      padding: 8px 15px;
+      font-size: 16px;
+      background: #004080;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    button:hover {
+      background: #0066cc;
+    }
+    .result {
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 15px;
+      margin-top: 10px;
+      border-radius: 5px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    .rodovia {
+      color: #004080;
+      font-weight: bold;
+    }
+    .residencia {
+      color: #0066cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔎 Busca de Rodovias por Cidade</h1>
+  <p>Digite o nome de uma cidade da Paraíba para ver as rodovias e residências responsáveis:</p>
+  <input type="text" id="cidadeInput" placeholder="Ex: Guarabira">
+  <button onclick="buscarCidade()">Buscar</button>
+
+  <div id="resultados"></div>
+
+  <script>
+    let dados = {};
+
+    // Carregar JSON com fetch
+    fetch("trechos_residencias.json")
+      .then(response => response.json())
+      .then(json => {
+        dados = json;
+      })
+      .catch(err => {
+        console.error("Erro ao carregar JSON:", err);
+      });
+
+    function buscarCidade() {
+      const cidade = document.getElementById("cidadeInput").value.trim().toLowerCase();
+      const resultadosDiv = document.getElementById("resultados");
+      resultadosDiv.innerHTML = "";
+
+      if (!cidade) {
+        resultadosDiv.innerHTML = "<p style='color:red;'>Digite uma cidade!</p>";
+        return;
+      }
+
+      let encontrados = [];
+
+      // Percorrer todas as residências e seus trechos
+      for (const residencia in dados) {
+        dados[residencia].forEach(trecho => {
+          if (trecho["Trecho"] && trecho["Trecho"].toLowerCase().includes(cidade)) {
+            encontrados.push({
+              rodovia: trecho["Rodovia"],
+              trecho: trecho["Trecho"],
+              residencia: residencia
+            });
+          }
+        });
+      }
+
+      if (encontrados.length === 0) {
+        resultadosDiv.innerHTML = "<p>Nenhum resultado encontrado para <b>" + cidade + "</b>.</p>";
+        return;
+      }
+
+      encontrados.forEach(e => {
+        const div = document.createElement("div");
+        div.classList.add("result");
+        div.innerHTML = `
+          <div class="rodovia">Rodovia: ${e.rodovia}</div>
+          <div>Trecho: ${e.trecho}</div>
+          <div class="residencia">Residência: ${e.residencia}</div>
+        `;
+        resultadosDiv.appendChild(div);
+      });
+    }
+  </script>
+</body>
+</html>
